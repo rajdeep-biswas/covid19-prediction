@@ -1,0 +1,31 @@
+"binary classifier with training data for one label only"
+https://stats.stackexchange.com/questions/55357/binary-classifier-with-training-data-for-one-label-only
+
+"further links from the above stackexchange page"
+https://stats.stackexchange.com/questions/76988/classification-of-data-with-incomplete-label-sets?rq=1
+https://stats.stackexchange.com/questions/162600/one-sided-classifier?rq=1
+https://stats.stackexchange.com/questions/169887/classification-with-partially-unknown-data?rq=1
+
+"training with one label only, other missing"
+https://stackoverflow.com/questions/37745833/training-set-with-only-one-label-missing-the-other
+
+"ML algorithm for unary data"
+https://www.quora.com/What-is-the-machine-learning-algorithm-for-unary-data
+
+"multi-label classification based on single-label dataset"
+https://datascience.stackexchange.com/questions/65006/multi-label-classification-based-on-single-label-dataset
+
+"looking for suitable dataset for one class classification" (the reverse of what i'm looking for)
+https://www.quora.com/Is-there-any-dataset-suitable-to-one-class-classification-problem-with-a-semi-supervised-learning-approach
+
+"the section of wikipedia that mentioned k-means but i'm not 100% sure this is the source i saw earlier but cant find now"
+https://en.wikipedia.org/wiki/One-class_classification#Approaches
+
+* this google search query has good papers linked
+"classifying dataset with one class"
+
+"2.1 trial"
+https://towardsdatascience.com/k-means-practical-1ab126e52f58
+https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+
+some search history on april 1st nighttime (rajdeep laptop)

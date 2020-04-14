@@ -1,0 +1,17 @@
+[01/04, 9:58 PM] Rajdeep: Gaussian naive Bayes
+Used COVID19_line_list_data.csv
+Features: location, country, gender, age
+Label: death
+Replaced age NaN with mean
+83.9% accuracy
+[01/04, 10:21 PM] Rajdeep: Possible dataset: IndividualDetails.csv
+Problem: singular label, need some unary classifier
+K means can be a clever idea, anything outside of that specific cluster would be COVID positive
+To be attempted
+[01/04, 10:21 PM] Rajdeep: https://stats.stackexchange.com/questions/55357/binary-classifier-with-training-data-for-one-label-only
+[01/04, 10:21 PM] Rajdeep: But again, nothing to test it with / measure the accuracy of
+[01/04, 10:26 PM] Rajdeep: https://www.teradata.com/Blogs/Improving-Prediction-of-the-Unconfirmed-COVID-19-Cases
+[01/04, 10:55 PM] Rajdeep: Another idea: this can be used to classify into three categories of how much you're at risk: safe, moderate, danger
+[01/04, 10:55 PM] Rajdeep: Not a very good idea but just to consider
+[01/04, 11:00 PM] Rajdeep: https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset#patients_data.csv
+[01/04, 11:00 PM] Rajdeep: 3rd usable dataset

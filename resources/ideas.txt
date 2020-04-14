@@ -1,0 +1,16 @@
+Unary labelled dataset-
+https://en.wikipedia.org/wiki/Unsupervised_learning
+
+ideas from the above link
+anomaly detection
+neural network models, the self-organizing map (SOM) and adaptive resonance theory (ART)
+(shall we try these on the all positive dataset?)
+concern 1: we can try a lot of clustering methods but i cant think of a way of making sure if it's correct
+concern 2: i need help visualizing multidimensional data clusters, if at all visually analyzing the clusters would be any useful
+concern 3: number of clusters should ideally be just 1 but should there be more?
+
+* cross validation pending on naive bayes, logres
+
+Creating datasets of healthy citizens-
+concern 1: we cannot assign age, gender, location values RANDOMLY even if we could check if they exist in the database and disinclude those ones that are already there
+idea 1: we can use latest census data and subtract our COVID poistive dataset from it (but i just found out latest census was in 2011)
