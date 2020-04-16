@@ -23,7 +23,6 @@ for item in response.json()["India"]:
     dates.append(item["date"])
 
 pdate = dates[-1]
-dates = []
 
 for date in pd.date_range(pdate, periods=nfuturedates, freq='d'):
     [y, m, d] = str(date)[:10].split("-")
@@ -55,9 +54,13 @@ plt.plot(X_pred, y_pred, color='blue', linewidth=3)
 plt.xticks(())
 plt.yticks(())
 
+allcases = realcases
+for item in y_pred[-20:]:
+    allcases.append(int(item))
+    
 datecases = []
 for i in range(len(dates)):
-    datecases.append([dates[i], int(y_pred[-20:][i])])
+    datecases.append([dates[i], allcases[i]])
 
 jsondata = []
 for item in [{"date": date, "confirmed": confirmed} for [date, confirmed] in datecases]:
