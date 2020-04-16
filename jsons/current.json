@@ -1,0 +1,84 @@
+{
+  "India": [
+    {
+      "confirmed": 772,
+      "date": "2020-4-15"
+    },
+    {
+      "confirmed": 895,
+      "date": "2020-4-16"
+    },
+    {
+      "confirmed": 1073,
+      "date": "2020-4-17"
+    },
+    {
+      "confirmed": 1306,
+      "date": "2020-4-18"
+    },
+    {
+      "confirmed": 1594,
+      "date": "2020-4-19"
+    },
+    {
+      "confirmed": 1937,
+      "date": "2020-4-20"
+    },
+    {
+      "confirmed": 2335,
+      "date": "2020-4-21"
+    },
+    {
+      "confirmed": 2789,
+      "date": "2020-4-22"
+    },
+    {
+      "confirmed": 3297,
+      "date": "2020-4-23"
+    },
+    {
+      "confirmed": 3860,
+      "date": "2020-4-24"
+    },
+    {
+      "confirmed": 4479,
+      "date": "2020-4-25"
+    },
+    {
+      "confirmed": 5152,
+      "date": "2020-4-26"
+    },
+    {
+      "confirmed": 5880,
+      "date": "2020-4-27"
+    },
+    {
+      "confirmed": 6664,
+      "date": "2020-4-28"
+    },
+    {
+      "confirmed": 7503,
+      "date": "2020-4-29"
+    },
+    {
+      "confirmed": 8396,
+      "date": "2020-4-30"
+    },
+    {
+      "confirmed": 9345,
+      "date": "2020-5-1"
+    },
+    {
+      "confirmed": 10349,
+      "date": "2020-5-2"
+    },
+    {
+      "confirmed": 11407,
+      "date": "2020-5-3"
+    },
+    {
+      "confirmed": 12521,
+      "date": "2020-5-4"
+    }
+  ]
+}
