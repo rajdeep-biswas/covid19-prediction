@@ -57,7 +57,7 @@ plt.yticks(())
 
 datecases = []
 for i in range(len(dates)):
-    datecases.append([dates[i], int(y_pred[i])])
+    datecases.append([dates[i], int(y_pred[-20:][i])])
 
 jsondata = []
 for item in [{"date": date, "confirmed": confirmed} for [date, confirmed] in datecases]:

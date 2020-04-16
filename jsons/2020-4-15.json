@@ -1,83 +1,83 @@
 {
   "India": [
     {
-      "confirmed": 772,
+      "confirmed": 13690,
       "date": "2020-4-15"
     },
     {
-      "confirmed": 895,
+      "confirmed": 14914,
       "date": "2020-4-16"
     },
     {
-      "confirmed": 1073,
+      "confirmed": 16193,
       "date": "2020-4-17"
     },
     {
-      "confirmed": 1306,
+      "confirmed": 17527,
       "date": "2020-4-18"
     },
     {
-      "confirmed": 1594,
+      "confirmed": 18916,
       "date": "2020-4-19"
     },
     {
-      "confirmed": 1937,
+      "confirmed": 20361,
       "date": "2020-4-20"
     },
     {
-      "confirmed": 2335,
+      "confirmed": 21860,
       "date": "2020-4-21"
     },
     {
-      "confirmed": 2789,
+      "confirmed": 23414,
       "date": "2020-4-22"
     },
     {
-      "confirmed": 3297,
+      "confirmed": 25024,
       "date": "2020-4-23"
     },
     {
-      "confirmed": 3860,
+      "confirmed": 26688,
       "date": "2020-4-24"
     },
     {
-      "confirmed": 4479,
+      "confirmed": 28407,
       "date": "2020-4-25"
     },
     {
-      "confirmed": 5152,
+      "confirmed": 30182,
       "date": "2020-4-26"
     },
     {
-      "confirmed": 5880,
+      "confirmed": 32012,
       "date": "2020-4-27"
     },
     {
-      "confirmed": 6664,
+      "confirmed": 33896,
       "date": "2020-4-28"
     },
     {
-      "confirmed": 7503,
+      "confirmed": 35836,
       "date": "2020-4-29"
     },
     {
-      "confirmed": 8396,
+      "confirmed": 37831,
       "date": "2020-4-30"
     },
     {
-      "confirmed": 9345,
+      "confirmed": 39880,
       "date": "2020-5-1"
     },
     {
-      "confirmed": 10349,
+      "confirmed": 41985,
       "date": "2020-5-2"
     },
     {
-      "confirmed": 11407,
+      "confirmed": 44145,
       "date": "2020-5-3"
     },
     {
-      "confirmed": 12521,
+      "confirmed": 46360,
       "date": "2020-5-4"
     }
   ]
