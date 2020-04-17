@@ -63,7 +63,7 @@ for item in [{"date": date, "confirmed": confirmed} for [date, confirmed] in dat
 jsondata = str({"India" : jsondata}).replace("'", '"')
 #print(y_pred)
 
-with open("jsons\current.json", 'w') as f:
+with open("/jsons/current.json", 'w') as f:
     f.write(json.dumps(json.loads(jsondata), indent=2, sort_keys=True))
 
-shutil.copyfile("jsons\current.json", "jsons\" + pdate + ".json")
+shutil.copyfile("/jsons/current.json", "/jsons/" + pdate + ".json")
