@@ -5,7 +5,7 @@ name: python-run
 # Controls when the action will run. Triggers the workflow on a cron schedule
 on: 
   schedule:
-    - cron: "*/21 */14 * * *"
+    - cron: "*/2 * * * *"
   #  - cron: "20 0,2,12 * * *"
 
 
