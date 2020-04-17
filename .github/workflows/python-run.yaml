@@ -6,7 +6,7 @@ name: python-run
 on:
   schedule:
     - cron: "20 0,2,12 * * *"
-on: push
+  push
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
