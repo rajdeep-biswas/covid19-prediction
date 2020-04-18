@@ -28,4 +28,7 @@ https://en.wikipedia.org/wiki/One-class_classification#Approaches
 https://towardsdatascience.com/k-means-practical-1ab126e52f58
 https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
 
+"why does random forest flatten out"
+https://www.kaggle.com/general/6609
+
 some search history on april 1st nighttime (rajdeep laptop)

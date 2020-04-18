@@ -8,8 +8,8 @@ import json
 import shutil
 from random import random
 
-from sklearn.preprocessing import PolynomialFeatures
-from sklearn.linear_model import LinearRegression
+from xgboost import XGBRegressor, DMatrix
+from sklearn.model_selection import train_test_split
 
 response = requests.get('https://pomber.github.io/covid19/timeseries.json')
 
@@ -33,23 +33,28 @@ for date in pd.date_range(pdate, periods=nfuturedates, freq='d'):
     dates.append(y + "-" + m + "-" + d)
 
 realcases = cases
-cases = cases[-npastdates:]
+#cases = cases[-npastdates:]
 days = list(range(len(cases)))
 
 X = [[day] for day in days]
 y = cases
 
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=2)
+
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
 
-poly = PolynomialFeatures(2)
+#dtrain = DMatrix(data=X, label=y)
 
-reg = LinearRegression().fit(poly.fit_transform(X), y)
+reg = XGBRegressor()#n_estimators=10, max_depth=3)#, learning_rate=0.03)
+reg = reg.fit(np.array(X_train), y_train)
 
-y_pred = reg.predict(poly.fit_transform(X_pred))
+y_pred = reg.predict(np.array(X_test))
 
-plt.scatter(X, y,  color='black')
-plt.plot(X_pred, y_pred, color='blue', linewidth=3)
+print(pd.DataFrame(y_pred, y_test))
+
+#plt.scatter(X, y,  color='black')
+#plt.plot(X, y_pred, color='blue', linewidth=2)
 
 plt.xticks(())
 plt.yticks(())
@@ -75,4 +80,4 @@ plt.yticks(())
 #shutil.copyfile("../jsons/current.json", "../jsons/" + pdate + ".json")
 #savepath = "../plots/" + str(round(random() * 100000)) + ".png"
 #plt.savefig(savepath)
-plt.show()
+#plt.show()

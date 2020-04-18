@@ -34,18 +34,18 @@ for date in pd.date_range(pdate, periods=nfuturedates, freq='d'):
     dates.append(y + "-" + m + "-" + d)
 
 realcases = cases
-#cases = cases[-npastdates:]
+cases = cases[-npastdates:]
 days = list(range(len(cases)))
 
 X = [[day] for day in days]
 y = cases
 
-#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.07, random_state=11)
 
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
 
-regr = RandomForestRegressor(max_depth=2, random_state=0)
+regr = RandomForestRegressor(max_depth=5, random_state=12, n_estimators=250)
 regr.fit(X, y)
 
 y_pred = regr.predict(X)
@@ -53,7 +53,8 @@ y_pred = regr.predict(X)
 plt.scatter(X, y, color='black')
 plt.plot(X, y_pred, color='blue', linewidth=2)
 
-print(mean_squared_error(y_pred, y_test))
+#print(mean_squared_error(y_pred, y_test))
+#print(pd.DataFrame(y_pred, y_test))
 
 plt.xticks(())
 plt.yticks(())
