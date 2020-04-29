@@ -33,7 +33,7 @@ for date in pd.date_range(pdate, periods=nfuturedates, freq='d'):
     dates.append(y + "-" + m + "-" + d)
 
 realcases = cases
-cases = cases[-npastdates:]
+#cases = cases[-npastdates:]
 days = list(range(len(cases)))
 
 X = [[day] for day in days]
@@ -42,7 +42,7 @@ y = cases
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
 
-poly = PolynomialFeatures(2)
+poly = PolynomialFeatures(4)
 
 reg = LinearRegression().fit(poly.fit_transform(X), y)
 
@@ -53,6 +53,9 @@ plt.plot(X_pred, y_pred, color='blue', linewidth=3)
 
 plt.xticks(())
 plt.yticks(())
+
+for item in y_pred:
+    print(item)
 
 allcases = realcases
 for item in y_pred[-20:]:

@@ -1,0 +1,2162 @@
+city,age,gender
+thrissur,20.0,F
+alappuzha,40.0,M
+kasaragod,40.0,M
+east delhi (mayur vihar),45.0,M
+hyderabad,24.0,M
+jaipur,69.0,M
+gurugram,55.0,M
+gurugram,55.0,F
+gurugram,55.0,F
+gurugram,55.0,M
+gurugram,55.0,F
+gurugram,55.0,M
+gurugram,55.0,M
+gurugram,55.0,F
+gurugram,55.0,F
+gurugram,55.0,M
+gurugram,55.0,F
+gurugram,55.0,F
+gurugram,55.0,M
+gurugram,55.0,M
+jaipur,70.0,F
+agra,40.0,M
+agra,40.0,F
+agra,45.0,F
+agra,40.0,M
+agra,16.0,M
+agra,40.0,F
+janakpuri,27.0,M
+ghaziabad,59.0,M
+uttam nagar,40.0,M
+ladakh,65.0,M
+ladakh,75.0,M
+kancheepuram,45.0,M
+ranni,24.0,M
+ranni,54.0,M
+ranni,53.0,F
+ranni,65.0,M
+ranni,61.0,F
+tri nagar,25.0,F
+jammu,63.0,F
+bengaluru,46.0,M
+kannur,3.0,M
+pune,40.0,M
+pune,40.0,F
+amritsar,40.0,M
+agra,48.0,M
+agra,40.0,F
+kozhencherry,40.0,M
+kozhencherry,40.0,M
+bengaluru,40.0,M
+bengaluru,47.0,F
+bengaluru,13.0,F
+kochi,40.0,M
+kochi,40.0,F
+ranni,96.0,M
+ranni,89.0,F
+chengalam,40.0,M
+chengalam,40.0,F
+pune,3.0,F
+pune,40.0,M
+pune,40.0,M
+jaipur,85.0,M
+janakpuri,46.0,M
+chuchot,40.0,M
+mumbai,70.0,M
+mumbai,68.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+nellore,27.0,M
+janakpuri,69.0,F
+bengaluru,26.0,M
+kalaburagi,76.0,M
+kannur,40.0,M
+thrissur,40.0,M
+mumbai,65.0,M
+nagpur,45.0,M
+pune,33.0,M
+lucknow,40.0,F
+ghaziabad,27.0,M
+delhi,40.0,M
+jammu,40.0,M
+varkala,40.0,F
+nedumangad,40.0,F
+thiruvananthapuram,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+pune,40.0,M
+agra,40.0,F
+ahmednagar,40.0,F
+mumbai,40.0,F
+thane - vashi,40.0,M
+kalyan-dombivali,37.0,M
+panvel (kamothe),59.0,F
+navi mumbai,40.0,M
+nagpur,43.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,21.0,M
+yavatmal,40.0,M
+yavatmal,40.0,F
+jaipur,24.0,M
+hyderabad,40.0,F
+munnar,40.0,M
+thiruvananthapuram,40.0,M
+aurangabad,59.0,F
+pimpri-chinchwad,40.0,M
+hyderabad,46.0,F
+dehradun,40.0,M
+rajouri,40.0,M
+bengaluru,32.0,M
+kalaburagi,45.0,F
+kalanadu,40.0,M
+malappuram,40.0,F
+malappuram,40.0,F
+navi mumbai,47.0,F
+navi mumbai,42.0,F
+kalyan-dombivali,33.0,F
+kalyan-dombivali,3.0,F
+mumbai,44.0,F
+yavatmal,51.0,F
+bhubaneswar,31.0,M
+hyderabad,40.0,M
+delhi,40.0,M
+delhi,40.0,F
+saket,40.0,F
+gurugram,29.0,F
+kargil,40.0,F
+leh,40.0,M
+leh,40.0,M
+bengaluru,20.0,F
+bengaluru,67.0,F
+kalaburagi,63.0,M
+mumbai,49.0,M
+pimpri-chinchwad,26.0,M
+mahe,68.0,F
+hyderabad,52.0,M
+noida,40.0,M
+noida,22.0,F
+kolkata,18.0,M
+leh,34.0,M
+leh,40.0,M
+pune,28.0,F
+lucknow,25.0,M
+hyderabad,22.0,M
+bengaluru,56.0,F
+bengaluru,25.0,M
+gautam buddh nagar,27.0,M
+gurugram,44.0,M
+chennai,20.0,M
+mumbai,68.0,F
+bengaluru,35.0,M
+pimpri-chinchwad,21.0,M
+shrungartali,50.0,F
+khanyar,67.0,F
+jhunjhunu,33.0,M
+jhunjhunu,30.0,F
+jhunjhunu,3.0,F
+hyderabad,40.0,F
+hyderabad,40.0,M
+hyderabad,40.0,M
+hyderabad,40.0,F
+hyderabad,40.0,M
+hyderabad,40.0,F
+hyderabad,40.0,F
+gurugram,40.0,F
+dilshad garden,38.0,F
+chandigarh,23.0,F
+mumbai,22.0,F
+ulhasnagar,49.0,F
+kodagu,35.0,M
+ongole,24.0,M
+raipur,24.0,F
+noida,40.0,M
+lucknow,40.0,M
+lakhimpur kheri,40.0,M
+chennai,21.0,M
+banga,70.0,M
+eriyal,47.0,M
+rajkot,32.0,M
+surat,21.0,F
+ahmednagar,51.0,M
+dehradun,40.0,M
+dehradun,40.0,M
+hyderabad,40.0,F
+hyderabad,40.0,M
+hyderabad,40.0,M
+bhubaneswar,19.0,M
+jaipur,40.0,M
+jaipur,40.0,F
+visakapatnam,65.0,M
+rana pratap bagh,22.0,F
+ashok vihar,22.0,M
+gautam puri,32.0,M
+beleghata,22.0,M
+mohali,69.0,F
+chusot,40.0,M
+chusot,40.0,F
+jahangirpuri,40.0,M
+jahangirpuri,40.0,F
+north delhi,58.0,M
+pimpri-chinchwad,24.0,M
+mumbai,38.0,M
+mumbai,20.0,M
+ahmedabad,22.0,F
+ahmedabad,34.0,F
+vadodara,47.0,M
+lucknow,37.0,M
+lucknow,35.0,M
+lucknow,20.0,F
+lucknow,41.0,F
+jaipur,40.0,M
+bhilwara,40.0,F
+bhilwara,40.0,F
+hyderabad,18.0,F
+jaipur,40.0,M
+vadodara,69.0,F
+ahmedabad,27.0,M
+chandigarh,40.0,F
+chandigarh,40.0,M
+chandigarh,40.0,M
+chandigarh,26.0,F
+kochi,40.0,F
+kochi,40.0,M
+kochi,40.0,M
+kochi,40.0,M
+kochi,40.0,M
+bhilwara,40.0,M
+bhilwara,40.0,M
+bhilwara,40.0,M
+bhilwara,40.0,M
+faridabad,52.0,F
+panipat,21.0,M
+kasaragod,52.0,M
+kasaragod,27.0,M
+kasaragod,40.0,M
+kasaragod,40.0,F
+kasaragod,40.0,F
+kasaragod,2.0,F
+kochi,40.0,M
+kangra,63.0,F
+kangra,32.0,M
+jabalpur,59.0,M
+jabalpur,45.0,F
+jabalpur,22.0,F
+jabalpur,24.0,M
+karimnagar,27.0,M
+karimnagar,60.0,M
+west delhi,32.0,M
+kalyan-dombivali,53.0,M
+pune,20.0,M
+habra,23.0,F
+bhilwara,40.0,F
+bhilwara,40.0,M
+bhilwara,40.0,F
+bhilwara,40.0,M
+bhilwara,40.0,M
+bhilwara,40.0,F
+mohali,42.0,M
+mohali,74.0,F
+mohali,28.0,F
+vadodara,59.0,M
+mumbai,63.0,M
+mumbai,40.0,M
+pune,41.0,F
+pune,40.0,M
+mumbai,40.0,F
+mumbai,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+gowribidanur,32.0,M
+noida,40.0,M
+panchkula,38.0,F
+leh,40.0,M
+leh,40.0,M
+sankoo valley,40.0,F
+ahmedabad,40.0,F
+ahmedabad,40.0,F
+surat,40.0,F
+surat,67.0,M
+gandhinagar,26.0,M
+bengaluru,53.0,F
+bengaluru,39.0,M
+moradabad,19.0,F
+hyderabad,35.0,M
+hyderabad,33.0,M
+perundurai,69.0,M
+perundurai,75.0,M
+chennai,65.0,M
+nawanshahr,35.0,M
+nawanshahr,34.0,M
+nawanshahr,45.0,M
+nawanshahr,40.0,F
+nawanshahr,17.0,M
+nawanshahr,36.0,F
+yavatmal,40.0,M
+garhshankar,60.0,M
+bengaluru,21.0,M
+mysuru,35.0,M
+sonepat,23.0,F
+dum dum,57.0,M
+bhiwara,40.0,F
+lakhapt,59.0,F
+rajahmundry,22.0,M
+vijayawada,24.0,M
+greater noida,31.0,M
+varanasi,30.0,M
+chandigarh,40.0,M
+hosayellapur,33.0,M
+mumbai suburb,32.0,M
+mumbai suburb,30.0,F
+mumbai suburb,21.0,M
+mumbai suburb,60.0,F
+mumbai city,64.0,F
+navi mumbai,35.0,M
+pune,40.0,M
+pune,40.0,F
+pune,40.0,M
+pune,40.0,M
+coimbatore,25.0,F
+munger,38.0,M
+patna,40.0,F
+hyderabad,24.0,M
+ahmedabad,40.0,F
+ahmedabad,40.0,M
+ahmedabad,40.0,F
+gandhinagar,81.0,F
+bhopal,26.0,F
+hyderabad,26.0,M
+hyderabad,34.0,M
+kothagudem,23.0,M
+kukatpally,23.0,M
+hyderabad,50.0,F
+bhatkal,22.0,M
+vengara,32.0,M
+kadalundi,24.0,M
+koduvally,41.0,F
+,69.0,M
+gowribidanur,64.0,F
+bengaluru,36.0,F
+bengaluru,27.0,M
+bengaluru,51.0,M
+greater noida,37.0,M
+greater noida,62.0,F
+kolkata,48.0,M
+kolkata,47.0,F
+kolkata,20.0,F
+jabalpur,53.0,M
+chennai,64.0,F
+tirunelveli,43.0,M
+visakhapatnam,49.0,F
+jhunjhunu,40.0,M
+shashtri nagar,36.0,M
+pune,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+thane,40.0,F
+navi mumbai,40.0,F
+vasai-virar,40.0,M
+mysuru,46.0,M
+palwal,40.0,M
+surat,45.0,M
+ahmedabad,58.0,M
+ahmedabad,57.0,F
+vadodara,27.0,F
+vadodara,29.0,F
+ahmedabad,24.0,F
+ahmedabad,33.0,M
+gandhinagar,49.0,M
+vadodara,46.0,F
+ahmedabad,61.0,M
+ahmedabad,85.0,F
+delhi,40.0,M
+delhi,40.0,F
+delhi,40.0,F
+balkampet,21.0,M
+saidabad,30.0,M
+karimnagar,23.0,M
+chandigarh,21.0,M
+somajiguda,20.0,M
+gachibowli,25.0,M
+kukatpally,56.0,M
+vadodara,32.0,M
+kasaragod,24.0,M
+kasaragod,30.0,M
+kasaragod,31.0,M
+kasaragod,41.0,M
+kasaragod,34.0,M
+kasaragod,40.0,M
+kasaragod,37.0,M
+kasaragod,47.0,F
+kasaragod,34.0,F
+kasaragod,21.0,M
+kasaragod,50.0,F
+kasaragod,32.0,F
+kasaragod,27.0,M
+kasaragod,33.0,F
+kasaragod,32.0,M
+kasaragod,27.0,F
+kasaragod,34.0,M
+kasaragod,52.0,M
+kasaragod,26.0,F
+kochi,56.0,M
+bengaluru,38.0,M
+bengaluru,41.0,M
+bengaluru,30.0,F
+bengaluru,24.0,M
+bengaluru,60.0,M
+bengaluru,22.0,M
+mumbai,38.0,F
+mumbai,40.0,M
+thane,40.0,M
+sangli,40.0,M
+sangli,40.0,F
+sangli,40.0,F
+sangli,40.0,F
+khandala,45.0,F
+kanpur,40.0,F
+pilibhit,73.0,F
+kangra,69.0,M
+mohali,40.0,F
+visakhapatnam,25.0,M
+chennai,25.0,M
+tiruppur,48.0,M
+madurai,54.0,M
+jaunpur,35.0,M
+kaushambi,41.0,M
+imphal,23.0,F
+pune rural,41.0,F
+jabalpur,40.0,M
+mangaluru,32.0,M
+bhatkal,65.0,M
+chikkaballapura,56.0,F
+surat,65.0,M
+gandhinagar,53.0,M
+gandhinagar,54.0,F
+beleghata,58.0,M
+porur,74.0,M
+purasaivakkam,52.0,F
+keelkattalai,25.0,F
+kokapet,49.0,M
+chandanagar,39.0,F
+begumpet,61.0,F
+bengaluru,56.0,F
+mangaluru,47.0,M
+beleghata,55.0,M
+natipora,57.0,M
+phillaur,40.0,M
+phillaur,40.0,F
+phillaur,40.0,F
+kalyan-dombivali,40.0,M
+ahmednagar,40.0,F
+noida,47.0,F
+mangaluru,70.0,F
+mangaluru,23.0,M
+srikalahasti,25.0,M
+chennai,65.0,M
+saidapet,55.0,F
+chennai,25.0,M
+manikonda,64.0,F
+panipat,40.0,M
+faridabad,40.0,F
+gandhinagar,40.0,F
+rajkot,36.0,M
+rajkot,75.0,F
+indore,40.0,M
+indore,40.0,F
+indore,40.0,M
+indore,40.0,M
+ujjain,65.0,F
+sangli,40.0,M
+sangli,40.0,F
+sangli,40.0,M
+sangli,40.0,F
+sangli,40.0,M
+bhilwara,40.0,M
+bhilwara,40.0,F
+bhilwara,40.0,F
+jodhpur,40.0,F
+navi mumbai,57.0,M
+mumbai city,27.0,M
+mumbai city,39.0,M
+panvel (kamothe),38.0,M
+udupi,34.0,M
+mumbai,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+kalyan-dombivali,40.0,M
+bengaluru,63.0,M
+bengaluru,59.0,F
+bengaluru,26.0,M
+bengaluru,26.0,M
+bengaluru,63.0,F
+bengaluru,69.0,M
+bengaluru,9.0,F
+bengaluru,7.0,F
+ludhiana,55.0,F
+garhshankar,31.0,M
+dugadda,26.0,M
+rajnandgaon,23.0,M
+raipur,24.0,F
+noida,40.0,M
+noida,40.0,F
+pilibhit,33.0,M
+bhilwara,40.0,F
+jhunjhunu,40.0,F
+vijayawada,22.0,M
+chennai,18.0,M
+walajapet,26.0,M
+perundurai,63.0,M
+goa,25.0,M
+goa,29.0,M
+goa,55.0,M
+nayabad,66.0,M
+mumbai,40.0,M
+thane,40.0,F
+indore,40.0,M
+indore,40.0,F
+indore,40.0,F
+indore,40.0,M
+indore,40.0,M
+bilaspur,40.0,F
+raipur,40.0,F
+bhilai,40.0,M
+delhi,40.0,M
+noida,21.0,F
+noida,39.0,M
+noida,33.0,F
+baghpat,32.0,M
+qutbullapur,49.0,M
+domalguda,36.0,F
+domalguda,41.0,M
+jaipur,45.0,M
+jhunjhunu,35.0,M
+nagpur,42.0,M
+panipat,21.0,F
+natipora,7.0,M
+natipora,1.0,M
+vijayawada,29.0,M
+bhubaneswar,60.0,M
+rajouri,40.0,M
+secunderabad,45.0,M
+rajkot,37.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+purasaivakkam,23.0,M
+ariyalur,25.0,F
+bantwal,1.0,M
+bengaluru,20.0,M
+bengaluru,25.0,F
+bengaluru,35.0,F
+tumkur,60.0,M
+bengaluru,33.0,F
+prakulam,47.0,M
+thane,40.0,F
+mumbai,40.0,F
+mumbai,40.0,M
+palghar rural,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,F
+mumbai,40.0,M
+davangere,18.0,M
+pammal,73.0,F
+anna nagar,39.0,M
+bhopal,50.0,M
+jabalpur,40.0,M
+jabalpur,40.0,M
+rajkot,37.0,M
+rajkot,39.0,M
+rajkot,33.0,F
+mumbai,40.0,F
+mumbai,40.0,F
+mumbai,40.0,M
+mumbai,40.0,M
+mumbai,40.0,M
+nagpur,40.0,F
+ahmedabad,40.0,M
+ahmedabad,40.0,M
+ahmedabad,40.0,F
+gandhinagar,25.0,M
+mehsana,40.0,M
+vadodara,65.0,M
+kumbakonam,42.0,M
+katpadi,49.0,M
+vadodara,66.0,M
+ajmer,23.0,M
+bhilwara,21.0,F
+bhatkal,54.0,F
+bhatkal,28.0,F
+bhatkal,23.0,F
+bengaluru,25.0,M
+gauribidanur,23.0,M
+gauribidanur,70.0,M
+gauribidanur,32.0,F
+gauribidanur,38.0,M
+gauribidanur,18.0,M
+bengaluru,63.0,F
+bhilwara,40.0,F
+bhilwara,40.0,M
+srinagar,45.0,M
+srinagar,40.0,F
+srinagar,56.0,M
+hajin,32.0,M
+hajin,32.0,M
+hajin,32.0,M
+hajin,32.0,M
+noida,11.0,F
+noida,35.0,F
+noida,63.0,M
+noida,18.0,M
+noida,33.0,F
+ottapalam,40.0,F
+rajapalayam,60.0,M
+west mambalam,25.0,M
+davangere,20.0,M
+bhatkal,24.0,M
+bhavnagar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+nagpur,40.0,F
+kalyan-dombivali,40.0,F
+kurnool,23.0,M
+macherla,58.0,M
+macherla,21.0,M
+chirala,60.0,M
+chirala,50.0,F
+vijayawada,65.0,M
+nanjangud,39.0,M
+nanjangud,38.0,M
+nanjangud,21.0,M
+nanjangud,31.0,M
+nanjangud,42.0,M
+ambala,21.0,M
+nagpur,40.0,M
+thane,40.0,F
+thane,40.0,M
+maradu,30.0,M
+maradu,45.0,F
+maradu,52.0,M
+temple gate,45.0,F
+temple gate,40.0,M
+perundurai,45.0,M
+perundurai,48.0,M
+perundurai,67.0,M
+perundurai,62.0,M
+thane,40.0,F
+thane,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+ahmednagar,40.0,F
+ahmednagar,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+ajmer,53.0,M
+ajmer,40.0,F
+ajmer,20.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nashik,40.0,F
+kakinada,49.0,M
+rajahmundry,72.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+perundurai,40.0,M
+broadway,50.0,F
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+nizamuddin area,40.0,M
+hospet,52.0,M
+hospet,48.0,F
+hospet,26.0,F
+salt lake,51.0,M
+tollygugne,52.0,M
+lepakshi,10.0,M
+lepakshi,34.0,F
+chirala,32.0,M
+karampudi,39.0,M
+guntur,39.0,M
+kunkala marru,32.0,M
+chirala,59.0,M
+chirala,44.0,M
+chirala,28.0,M
+kandukuru,46.0,M
+chirala,35.0,M
+bengaluru,40.0,M
+bengaluru,19.0,M
+gauribidanur,40.0,F
+bhatkal,26.0,M
+hindpidi,22.0,F
+silchar,52.0,M
+kalaburagi,60.0,F
+bengaluru,40.0,M
+bengaluru,62.0,F
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+ahmednagar,40.0,F
+ahmednagar,40.0,M
+ahmednagar,40.0,M
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+noida,40.0,F
+noida,40.0,M
+ariyankuppam,58.0,M
+ariyankuppam,31.0,M
+nanjangud,37.0,M
+nanjangud,27.0,M
+annaimalai,28.0,M
+annaimalai,40.0,M
+pollachi,34.0,M
+annaimalai,36.0,M
+annaimalai,41.0,M
+annaimalai,38.0,M
+pollachi,39.0,M
+mettupalayam,40.0,M
+mettupalayam,30.0,M
+mettupalayam,45.0,M
+mettupalayam,57.0,M
+mettupalayam,32.0,M
+mettupalayam,34.0,M
+mettupalayam,45.0,M
+mettupalayam,52.0,M
+mettupalayam,40.0,M
+mettupalayam,46.0,M
+mettupalayam,37.0,M
+mettupalayam,47.0,M
+mettupalayam,33.0,M
+mettupalayam,21.0,M
+mettupalayam,44.0,M
+mettupalayam,39.0,M
+mettupalayam,38.0,M
+mettupalayam,55.0,M
+mettupalayam,31.0,M
+mettupalayam,51.0,M
+pothanur,34.0,M
+melapalayam,37.0,M
+karunkalpalayam,26.0,M
+karunkalpalayam,54.0,M
+bodi,60.0,M
+bodi,50.0,M
+bodi,63.0,M
+bodi,55.0,M
+bodi,56.0,M
+bodi,52.0,M
+bodi,63.0,M
+bodi,27.0,M
+chinnamanur,40.0,M
+uthamapalayam,48.0,M
+uthamapalayam,54.0,M
+bodi,71.0,M
+periyakulam,31.0,M
+bodi,50.0,M
+periyakulam,48.0,M
+bodi,68.0,M
+periyakulam,36.0,M
+bodi,47.0,M
+bodi,55.0,M
+begampur,22.0,M
+begampur,55.0,M
+begampur,35.0,M
+begampur,35.0,M
+thirupathur,48.0,M
+thirupathur,42.0,M
+thirupathur,48.0,M
+devakottai,38.0,M
+ilayankudi,40.0,M
+bengaluru,26.0,M
+bengaluru,63.0,M
+hadapsar - pune,73.0,M
+ramganj,40.0,M
+ramganj,40.0,F
+ramganj,40.0,M
+ramganj,40.0,F
+ramganj,40.0,F
+ramganj,40.0,M
+ramganj,40.0,F
+bilal colony,48.0,M
+lalwani rd,30.0,M
+shahgunj,41.0,M
+golekbana,66.0,M
+basavakalyan,59.0,M
+kiramani colony,73.0,M
+thodupuzha,58.0,M
+mira-bhayandar,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,F
+ahmednagar,40.0,F
+ahmednagar,40.0,F
+ahmednagar,40.0,M
+ahmednagar,40.0,F
+ahmednagar,40.0,M
+ahmednagar,40.0,M
+ahmednagar,40.0,F
+aurangabad,40.0,M
+aurangabad,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+bellary,14.0,M
+bhavnagar,28.0,M
+navi mumbai,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+ahmednagar,40.0,M
+ahmednagar,40.0,F
+ariyankuppam,40.0,F
+thiruvandarkoil,40.0,F
+ahmadabad,17.0,M
+ahmadabad,60.0,F
+ahmadabad,35.0,M
+ahmadabad,30.0,F
+ahmadabad,7.0,F
+ahmadabad,68.0,M
+ahmadabad,65.0,M
+bomikhal,40.0,M
+bomikhal,40.0,M
+bomikhal,40.0,F
+bhawani peth pune,67.0,M
+parvati - pune,67.0,M
+limboni nagar pune,65.0,F
+parvati - pune,79.0,M
+parvati - pune,35.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+jalgaon rural,40.0,M
+nandavaram,30.0,M
+kodaru,58.0,M
+prakasam nagar,34.0,M
+machilipatnam,56.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+pune,44.0,M
+hadapsar-pune,62.0,M
+hindupur,60.0,M
+sujjanpur,75.0,F
+naugachia,65.0,F
+"kunkalamarru,karamchedu",45.0,M
+"kunkalamarru,karamchedu",60.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+nagpur,40.0,M
+banaganapalli,33.0,M
+chittari,47.0,M
+sangaih pet,45.0,M
+narsingh rao pet,33.0,M
+khadakpura,34.0,M
+nagappa street,32.0,M
+malyala village,52.0,M
+habeeb mubarak nagar,35.0,M
+a-park road,36.0,M
+kvr garden,40.0,M
+gadivemula,45.0,M
+kodumur,25.0,M
+gani gali street,35.0,M
+atmakur,17.0,M
+osmania college road,27.0,M
+srilakshmi nagar,37.0,M
+banaganapalli,45.0,M
+nandyala,28.0,M
+nandyala,30.0,M
+nandyala,37.0,M
+gani gali street,43.0,M
+"islam petta, atmakur",37.0,M
+nandyala,35.0,M
+"thyagaraja nagar,tirupathi",65.0,M
+nindra,48.0,M
+chinna masjid,45.0,M
+"thyagaraja nagar,tirupathi",48.0,F
+keelapattu nagari,33.0,M
+renigunta,27.0,F
+"thyagaraja nagar,tirupathi",50.0,M
+ongole,40.0,M
+ongole,40.0,M
+"nelamalipudi,ozhili",65.0,M
+magunta layout,55.0,M
+madiwala,68.0,M
+madiwala,62.0,F
+baramati,60.0,M
+ahmednagar,40.0,M
+aurangabad,40.0,F
+aurangabad,40.0,F
+ahmednagar rural,40.0,F
+ahmednagar rural,40.0,F
+ahmednagar rural,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,M
+"bhimatangi, bhubaneswar",70.0,M
+"bomikhal, bhubaneswar",29.0,M
+"dera bassi, mohali",42.0,M
+kalyan-dombivali,40.0,F
+vasai-virar,40.0,F
+budhavur petta,20.0,M
+ayyaluru,28.0,M
+chandabada,22.0,M
+gadivemula,44.0,M
+nadyal,30.0,M
+padidempadu,60.0,M
+bedamcherla,59.0,M
+gonampalle,19.0,M
+revenue colony,77.0,M
+budhawarapetta,30.0,M
+nandikotkur,31.0,M
+ganigalli,50.0,M
+nandyal,52.0,M
+shalisaheb street,36.0,M
+nandyal,31.0,M
+nandyal,31.0,M
+panyam,45.0,M
+nandyal,36.0,M
+banaganapalli,37.0,M
+nandyal,55.0,M
+nandyal,38.0,M
+nandyala,43.0,M
+nandyal,23.0,M
+nandyal,43.0,M
+bhubaneswar,40.0,F
+bhubaneswar,40.0,F
+bhubaneswar,40.0,F
+bhubaneswar,40.0,M
+bhubaneswar,40.0,F
+bhubaneswar,40.0,M
+bhubaneswar,40.0,F
+bhubaneswar,40.0,M
+bhubaneswar,40.0,F
+bhubaneswar,40.0,M
+bhubaneswar,40.0,M
+bhubaneswar,40.0,M
+bhubaneswar,40.0,M
+bhubaneswar,40.0,F
+bhubaneswar,40.0,F
+bhubaneswar,40.0,F
+hindpidi,40.0,F
+ahmednagar rural,40.0,F
+vasai-virar,40.0,F
+r k function hall backside,80.0,F
+hindupur,39.0,M
+r k function hall backside,29.0,M
+anandpet,52.0,M
+gandhi nagar,54.0,M
+kadappa,28.0,F
+narsipatnam,40.0,F
+narsipatnam,32.0,F
+gajuwaka,28.0,M
+akkayyapelem,55.0,M
+akkayyapelem,76.0,F
+narsapuram,34.0,M
+kashmir division,40.0,M
+kashmir division,40.0,M
+kashmir division,40.0,M
+pandalam,19.0,F
+kurnool,26.0,M
+kurnool,32.0,M
+kurnool,25.0,M
+nandyala mandal,62.0,M
+kurnool,32.0,M
+kurnool,32.0,M
+nandyal town,46.0,M
+kurnool,38.0,M
+kurnool,47.0,M
+kurnool,45.0,M
+kurnool,34.0,M
+kurnool,40.0,M
+kurnool,42.0,M
+atmukur,30.0,M
+kurnool,30.0,M
+nandyala,50.0,F
+kurnool,21.0,M
+kotaveedhi,43.0,M
+nellore,12.0,M
+gudur,65.0,M
+vakadu,53.0,M
+vakadu,50.0,F
+naidupeta,18.0,M
+nellore,35.0,F
+naidupeta,11.0,M
+nellore,41.0,F
+penugonda,34.0,M
+penugonda,50.0,F
+penugonda,54.0,M
+eluru,47.0,F
+eluru,57.0,M
+kadappa,38.0,F
+kadappa,13.0,F
+kadappa,21.0,M
+kadappa,44.0,M
+payakapuram,41.0,F
+konakalamitta mandal,35.0,M
+kot kar khan,17.0,M
+ropar,16.0,M
+ropar,52.0,F
+dadra and nagar haveli,40.0,F
+nashik rural,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+ahmednagar rural,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,M
+udaipur,40.0,M
+tissa,40.0,M
+tissa,40.0,F
+tissa,40.0,M
+tissa,40.0,M
+srinivasaraopeta,35.0,M
+ahmednagar rural,40.0,M
+ahmednagar rural,40.0,F
+palghar rural,40.0,F
+nagpur,40.0,F
+nagpur,40.0,F
+mudhol,33.0,M
+bengaluru,29.0,M
+bengaluru,50.0,M
+bengaluru,68.0,M
+jharpada,72.0,M
+jawaharpur,40.0,M
+jawaharpur,40.0,M
+jawaharpur,40.0,M
+jawaharpur,40.0,M
+jawaharpur,40.0,F
+jawaharpur,40.0,M
+jawaharpur,40.0,M
+cheeda,35.0,M
+pune rural,40.0,F
+pune rural,40.0,M
+pune rural,40.0,M
+palghar rural,40.0,M
+vasai-virar,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,F
+aurangabad rural,40.0,M
+srinivasaraopeta,63.0,F
+srinivasaraopeta,43.0,M
+chatenyapuri,53.0,F
+koretipadu,70.0,M
+vedigadla,33.0,M
+buchayathota,80.0,F
+buchayathota,16.0,F
+buchayathota,63.0,M
+kurnool,41.0,F
+tirupati,24.0,M
+naidupeta,19.0,F
+mallam,10.0,F
+haripriya garden,47.0,F
+tada,17.0,M
+tada,19.0,M
+turimella,24.0,M
+vijayawada,55.0,M
+vijayawada,55.0,M
+vijayawada,21.0,M
+vijayawada,43.0,F
+vijayawada,24.0,F
+vijayawada,32.0,F
+nagiri,26.0,F
+nagiri,30.0,F
+islamapet,56.0,M
+pune rural,40.0,M
+pune rural,40.0,M
+pune rural,40.0,F
+thane,40.0,M
+thane,40.0,M
+navi mumbai,40.0,F
+kalyan-dombivali,40.0,M
+thane,40.0,F
+anandpet,47.0,F
+anandpet,22.0,M
+guntur,63.0,M
+guntur,45.0,F
+anandpet,35.0,F
+anandpet,35.0,M
+guntur,68.0,M
+arundalpet,35.0,M
+hindupur,39.0,M
+kalyana durgam,70.0,M
+anantapur,36.0,M
+anantapur,25.0,F
+anantapur,24.0,M
+anantapur,44.0,F
+anantapur,35.0,M
+ongole,56.0,M
+ongole,50.0,F
+ongole,25.0,M
+tallamundunurupadu,56.0,M
+mohali,40.0,M
+mohali,40.0,M
+mohali,40.0,M
+mohali,40.0,M
+mohali,40.0,M
+mohali,40.0,M
+hindipiri,40.0,F
+hindipiri,40.0,M
+hindipiri,40.0,M
+hindipiri,40.0,M
+hindipiri,40.0,F
+ramganj,40.0,F
+ramganj,40.0,M
+ramganj,40.0,M
+ramganj,40.0,M
+ramganj,40.0,F
+ramganj,40.0,M
+ramganj,40.0,M
+ramganj,40.0,M
+shastrinagar,40.0,F
+shastrinagar,40.0,F
+ghat gate,40.0,M
+jaisalmer,40.0,F
+jaisalmer,40.0,M
+jaisalmer,40.0,F
+jaisalmer,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+thane,40.0,F
+navi mumbai,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+navi mumbai,40.0,F
+thane,40.0,M
+mira-bhayandar,40.0,F
+vasai-virar,40.0,F
+thane,40.0,F
+aurangabad,40.0,F
+aurangabad,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,M
+amaravati,40.0,M
+amaravati,40.0,M
+amaravati,40.0,M
+beed,40.0,M
+thane,40.0,F
+malegaon,40.0,F
+malegaon,40.0,F
+malegaon,40.0,F
+ongole,49.0,M
+ongole,29.0,M
+ongole,30.0,M
+ongole,40.0,F
+ongole,16.0,M
+ongole,15.0,M
+ongole,75.0,M
+ongole,52.0,M
+ongole,36.0,F
+ongole,35.0,F
+ongole,47.0,M
+kathipudi,41.0,M
+kadappa,60.0,F
+ponnur mandal,67.0,M
+narsaraopet,47.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+thane,40.0,M
+thane,40.0,F
+golamunda,20.0,M
+jharpada,37.0,F
+jharpada,9.0,F
+jharpada,5.0,F
+aravinda nagar,44.0,F
+kothacheruvu,58.0,M
+moolakulam,47.0,M
+thiruvandarkoil,54.0,M
+sector 37,40.0,M
+kudiyanmala,60.0,M
+kudiyanmala,59.0,F
+srinivasaraopet,41.0,M
+anandpet,47.0,F
+anandpet,28.0,F
+sangadi gunta,27.0,F
+sangadi gunta,71.0,F
+kummari bazar,65.0,F
+dachepalli,51.0,M
+kathipudi,8.0,F
+kathipudi,29.0,F
+kathipudi,3.0,F
+kathipudi,50.0,F
+kathipudi,25.0,F
+kurnool,35.0,F
+athmakur,55.0,F
+ongole,17.0,F
+markapur,20.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,F
+thane,40.0,M
+thane,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+navi mumbai,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+vasai-virar,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,F
+madhusudan,35.0,F
+madhusudan,22.0,M
+bengaluru,32.0,M
+kottayam-malabar,29.0,M
+naravoor,33.0,M
+kadirur,14.0,M
+kadirur,68.0,F
+kadirur,40.0,M
+mooriyad,40.0,M
+mooriyad,40.0,M
+edacheri,40.0,M
+anandpet,26.0,M
+kummari bazar,67.0,M
+kummari bazar,26.0,F
+kummari bazar,33.0,M
+kummari bazar,6.0,F
+arundelpeta,37.0,M
+kummari bazar,8.0,M
+kummari bazar,22.0,M
+kummari bazar,40.0,M
+kummari bazar,13.0,F
+kummari bazar,50.0,F
+kummari bazar,7.0,F
+kummari bazar,11.0,F
+kummari bazar,34.0,F
+anandpet,24.0,F
+anandpet,49.0,M
+anandpet,31.0,M
+banaganapalle mandal,69.0,M
+devanagar,38.0,M
+maddur,31.0,F
+maddur,13.0,M
+maddur,62.0,F
+ongole,59.0,F
+kadappa,24.0,M
+bengaluru,10.0,M
+thane,40.0,M
+kalyan-dombivali,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+ahmednagar rural,40.0,M
+aurangabad rural,40.0,M
+aurangabad rural,40.0,F
+kolhapur rural,40.0,M
+nashik rural,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+palghar rural,40.0,M
+malegaon,22.0,F
+raibagh,19.0,M
+hirebagewadi,38.0,M
+raibagh,55.0,M
+raibagh,25.0,M
+panvel,40.0,M
+pimpri-chinchwad,40.0,F
+thane,40.0,M
+thane,40.0,M
+mooriyadh,40.0,M
+sector 37,40.0,F
+sector 37,8.0,F
+sujata convent,45.0,M
+anandpet,51.0,F
+anandpet,65.0,F
+ponnur,21.0,M
+anandpet,25.0,F
+anandpet,11.0,F
+kortepadu,27.0,F
+thirumuru,12.0,F
+kotamitta,73.0,M
+kotamitta,48.0,M
+nellore,56.0,M
+pedda,55.0,M
+chagala marri,13.0,M
+vadamalapeta,29.0,M
+kadappa,63.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,F
+kalyan-dombivali,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+bhiwandi,40.0,M
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur rural,40.0,F
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+"dimapur, nagaland",40.0,M
+anandpet,30.0,M
+vuruvakatta,24.0,F
+anandpet,65.0,M
+anandpet,6.0,M
+anandpet,29.0,F
+vuruvakatta,41.0,F
+guntur,50.0,M
+buchayathota,22.0,F
+srikalahasti,30.0,F
+srikalahasti,9.0,F
+ranihari thotta,50.0,M
+tadepalligudem,48.0,M
+hubballi,55.0,M
+hubballi,36.0,M
+hubballi,74.0,F
+hubballi,37.0,M
+malavalli,60.0,F
+malavalli,8.0,F
+malavalli,18.0,M
+mudhol,27.0,M
+bidar,16.0,F
+bidar,35.0,F
+raibag,20.0,M
+raibag,14.0,M
+raibag,45.0,M
+doddaballapura,39.0,M
+bengaluru,62.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+pune,40.0,M
+pune,40.0,F
+pune,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,M
+madayi,36.0,F
+new mahe,74.0,M
+chathanur,32.0,M
+chandrababu nagar,38.0,M
+tada mandal,13.0,M
+ranganayakakulapeta,48.0,M
+pedda bazar,28.0,M
+narasarao peta,19.0,F
+narasarao peta,45.0,M
+narasarao peta,38.0,M
+ahmednagar,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,M
+aurangabad,40.0,F
+aurangabad,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nashik,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+panvel,40.0,F
+raigarh,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+navi mumbai,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+kalyan-dombivali,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+shillong,69.0,M
+arundelpeta,7.0,F
+arundelpeta,28.0,F
+guntur,55.0,F
+guntur,24.0,F
+guntur,8.0,F
+guntur,5.0,M
+sangadi gunta,57.0,F
+sangadi gunta,43.0,M
+dachepalli,66.0,M
+dachepalli,40.0,M
+dachepalli,47.0,M
+dachepalli,14.0,M
+anandpeta,17.0,M
+anandpeta,20.0,F
+anandpeta,29.0,F
+sangadi gunta,21.0,M
+vijayawada,28.0,M
+vijayawada,23.0,F
+vijayawada,25.0,F
+vijayawada,31.0,M
+vijayawada,49.0,M
+vijayawada,30.0,M
+vijayawada,26.0,M
+vijayawada,20.0,M
+ganigali street,29.0,F
+ganigali street,6.0,M
+ganigali street,18.0,F
+ganigali street,80.0,M
+habeeb mubarak nagar,3.0,F
+habeeb mubarak nagar,5.0,F
+budhavarpeta,40.0,M
+hindupur mandal,48.0,F
+naik nagar,32.0,F
+nagpur rural,40.0,M
+nagpur rural,40.0,M
+nagpur rural,40.0,F
+nagpur rural,40.0,M
+nagpur,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+malegaon,40.0,F
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,M
+palghar rural,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+panvel,40.0,M
+pune rural,40.0,M
+pune rural,40.0,M
+pune rural,40.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+navi mumbai,40.0,F
+navi mumbai,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+bomikhal,50.0,M
+bomikhal,51.0,F
+bomikhal,75.0,M
+bhubaneshwar,51.0,M
+mooriyad,29.0,M
+mooriyad,26.0,M
+mooriyad,35.0,M
+cheruvanchery,33.0,F
+thane,40.0,F
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+mudhol,39.0,M
+nanjanagudu,41.0,M
+nanjanagudu,30.0,M
+nanjanagudu,27.0,M
+nanjanagudu,35.0,M
+nanjanagudu,26.0,M
+nanjanagudu,23.0,M
+nanjanagudu,35.0,M
+nanjanagudu,28.0,M
+nanjanagudu,32.0,M
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur,40.0,F
+nagpur,40.0,F
+nagpur,40.0,M
+nagpur,40.0,F
+nagpur,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+navi mumbai,40.0,F
+navi mumbai,40.0,F
+mira-bhayandar,40.0,M
+mira-bhayandar,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,F
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+pune,50.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,M
+hirebagewadi,51.0,F
+hirebagewadi,42.0,M
+hirebagewadi,33.0,M
+hirebagewadi,16.0,F
+hirebagewadi,65.0,F
+hirebagewadi,30.0,F
+bagewadi,54.0,F
+hirebagewadi,58.0,F
+chikkodi,47.0,M
+raibagh,25.0,M
+raibagh,30.0,M
+raibagh,43.0,M
+raibagh,50.0,M
+raibagh,35.0,M
+raibagh,25.0,M
+raibagh,64.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,F
+mcgm,40.0,M
+mcgm,40.0,M
+nagpur,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+thane,40.0,M
+thane,40.0,M
+panvel,40.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pune,40.0,M
+pune,40.0,M
+pune,40.0,M
+pune,40.0,F
+pune,40.0,M
+pune,40.0,M
+pune,40.0,F
+pune,40.0,M
+pune,40.0,F
+pune,40.0,M
+pune,40.0,F
+pune,40.0,M
+pune,40.0,M
+pune,40.0,F
+pune,40.0,F
+pune,40.0,M
+pune,40.0,F
+pune,40.0,F
+pune,40.0,F
+thane rural,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,M
+thane,40.0,M
+thane,40.0,F
+thane,40.0,M
+thane,40.0,F
+panvel,40.0,F
+panvel,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+pune rural,40.0,M
+pune rural,40.0,M
+pune rural,40.0,F
+pune rural,40.0,M
+pune rural,40.0,M
+pune rural,40.0,M
+nashik rural,40.0,M
+nashik,40.0,F
+katghora,40.0,F
+katghora,40.0,M
+katghora,40.0,M
+bombooflat,40.0,M
+nanjangud,50.0,M
+nanjangud,33.0,M
+nanjangud,33.0,M
+nanjangud,41.0,F
+malavalli,25.0,M
+malavalli,29.0,M
+uppinangadi,39.0,M
+hospete,28.0,F
+hospete,39.0,M
+hospete,68.0,F
+hospete,21.0,M
+hospete,48.0,M
+hospete,10.0,F
+hospete,50.0,M
+hospete,24.0,M
+nanjangud,22.0,M
+nanjangud,38.0,M
+nanjangud,38.0,M
+nanjangud,26.0,M
+nanjangud,28.0,M
+nanjangud,22.0,M
+nanjangud,29.0,M
+nanjangud,26.0,M
+azad basti,40.0,M
+azad basti,40.0,F
+hindpiri,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,M
+thane rural,40.0,M
+thane rural,40.0,F
+thane rural,40.0,F
+thane rural,40.0,F
+thane rural,40.0,M
+mira-bhayandar,40.0,F
+mira-bhayandar,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,F
+panvel,40.0,M
+panvel,40.0,M
+panvel,40.0,F
+panvel,40.0,F
+panvel,40.0,M
+panvel,40.0,M
+raigarh rural,40.0,F
+raigarh rural,40.0,F
+nagpur rural,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+vasai-virar,40.0,F
+vasai-virar,40.0,M
+malegaon,40.0,M
+palghar rural,40.0,M
+palghar rural,40.0,M
+palghar rural,40.0,M
+palghar rural,40.0,M
+palghar rural,40.0,F
+palghar rural,40.0,M
+palghar rural,40.0,M
+palghar rural,40.0,F
+palghar rural,40.0,M
+malegaon,40.0,F
+malegaon,40.0,F
+malegaon,40.0,M
+malegaon,40.0,F
+kalaburagi,34.0,M
+shahbad,16.0,M
+hubli,63.0,M
+hirebagewadi,45.0,M
+nanjanagudu,30.0,M
+nanjanagudu,50.0,M
+malavalli,39.0,M
+mudhol,32.0,M
+jamakhandi,32.0,M
+nanjangud,26.0,F
+mudhol,43.0,M
+mudhol,43.0,M
+jamakhandi,47.0,M
+nanjangud,30.0,M
+nanjangud,36.0,M
+nanjangud,28.0,M
+khajpura,32.0,F
+,40.0,F
+nashik,40.0,M
+kdmc,40.0,M
+kdmc,40.0,M
+kdmc,40.0,M
+kdmc,40.0,F
+kdmc,40.0,F
+mbmc,40.0,M
+mbmc,40.0,M
+mbmc,40.0,F
+mbmc,40.0,F
+mbmc,40.0,F
+mbmc,40.0,M
+mbmc,40.0,F
+mbmc,40.0,M
+mbmc,40.0,M
+mbmc,40.0,M
+mbmc,40.0,M
+navi mumbai,40.0,M
+navi mumbai,40.0,M
+panvel,40.0,M
+pcmc,40.0,M
+pcmc,40.0,M
+pcmc,40.0,F
+pcmc,40.0,M
+pcmc,40.0,F
+pcmc,40.0,F
+pcmc,40.0,M
+pcmc,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,F
+pimpri-chinchwad,40.0,M
+pimpri-chinchwad,40.0,M
+pune rural,40.0,M
+pune rural,40.0,M
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,M
+pmc,40.0,M
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,F
+pmc,40.0,M
+pune dist,40.0,F
+raigarh rural,40.0,F
+raigarh rural,40.0,M
+raigarh rural,40.0,M
+raigarh rural,40.0,F
+raigarh rural,40.0,M
+thane corp,40.0,F
+thane corp,40.0,M
+thane corp,40.0,M
+thane corp,40.0,M
+thane corp,40.0,M
+thane corp,40.0,F
+vasai virar,40.0,M
+bhiwandi,40.0,F
+bhiwandi,40.0,M
+bhiwandi,40.0,M
+nanjangud,39.0,M
+nanjangud,23.0,F
+bihar sharif,12.0,M
+bihar sharif,18.0,M
+bihar sharif,22.0,M
+chandigarh sector 30,56.0,M
+chandigarh sector 30,24.0,M
+chandigarh sector 30,2.0,F
+uppinangadi,30.0,F
+bantwala,50.0,F
+hindpiri,40.0,M
+hindpiri,40.0,M
+hindpiri,40.0,F

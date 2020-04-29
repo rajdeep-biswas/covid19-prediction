@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 response = requests.get('https://pomber.github.io/covid19/timeseries.json')
 
 npastdates = 20
-nfuturedates = 20
+nfuturedates = 40
 
 cases = []
 dates = []
@@ -39,7 +39,7 @@ days = list(range(len(cases)))
 X = [[day] for day in days]
 y = cases
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=2)
+#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=2)
 
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
@@ -47,14 +47,17 @@ X_pred = [[x_pred] for x_pred in X_pred]
 #dtrain = DMatrix(data=X, label=y)
 
 reg = XGBRegressor()#n_estimators=10, max_depth=3)#, learning_rate=0.03)
-reg = reg.fit(np.array(X_train), y_train)
+reg = reg.fit(np.array(X), y)
 
-y_pred = reg.predict(np.array(X_test))
+y_pred = reg.predict(np.array(X_pred))
 
-print(pd.DataFrame(y_pred, y_test))
+for item in y_pred:
+    print(item)
 
-#plt.scatter(X, y,  color='black')
-#plt.plot(X, y_pred, color='blue', linewidth=2)
+#print(pd.DataFrame(y_pred))
+
+plt.scatter(X, y,  color='black')
+plt.plot(X_pred, y_pred, color='blue', linewidth=2)
 
 plt.xticks(())
 plt.yticks(())
@@ -80,4 +83,4 @@ plt.yticks(())
 #shutil.copyfile("../jsons/current.json", "../jsons/" + pdate + ".json")
 #savepath = "../plots/" + str(round(random() * 100000)) + ".png"
 #plt.savefig(savepath)
-#plt.show()
+plt.show()
