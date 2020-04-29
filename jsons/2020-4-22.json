@@ -358,89 +358,6 @@
     },
     {
       "confirmed": 18539,
-<<<<<<< HEAD
-      "date": "2020-4-20"
-    },
-    {
-      "confirmed": 20311,
-      "date": "2020-4-20"
-    },
-    {
-      "confirmed": 21964,
-      "date": "2020-4-21"
-    },
-    {
-      "confirmed": 23710,
-      "date": "2020-4-22"
-    },
-    {
-      "confirmed": 25554,
-      "date": "2020-4-23"
-    },
-    {
-      "confirmed": 27498,
-      "date": "2020-4-24"
-    },
-    {
-      "confirmed": 29546,
-      "date": "2020-4-25"
-    },
-    {
-      "confirmed": 31702,
-      "date": "2020-4-26"
-    },
-    {
-      "confirmed": 33968,
-      "date": "2020-4-27"
-    },
-    {
-      "confirmed": 36349,
-      "date": "2020-4-28"
-    },
-    {
-      "confirmed": 38848,
-      "date": "2020-4-29"
-    },
-    {
-      "confirmed": 41469,
-      "date": "2020-4-30"
-    },
-    {
-      "confirmed": 44216,
-      "date": "2020-5-1"
-    },
-    {
-      "confirmed": 47092,
-      "date": "2020-5-2"
-    },
-    {
-      "confirmed": 50101,
-      "date": "2020-5-3"
-    },
-    {
-      "confirmed": 53248,
-      "date": "2020-5-4"
-    },
-    {
-      "confirmed": 56536,
-      "date": "2020-5-5"
-    },
-    {
-      "confirmed": 59969,
-      "date": "2020-5-6"
-    },
-    {
-      "confirmed": 63551,
-      "date": "2020-5-7"
-    },
-    {
-      "confirmed": 67287,
-      "date": "2020-5-8"
-    },
-    {
-      "confirmed": 71181,
-      "date": "2020-5-9"
-=======
       "date": "2020-4-20"
     },
     {
@@ -452,105 +369,80 @@
       "date": "2020-4-22"
     },
     {
-      "confirmed": 23077,
+      "confirmed": 22820,
       "date": "2020-4-23"
     },
     {
-      "confirmed": 24530,
+      "confirmed": 24335,
       "date": "2020-4-24"
     },
     {
-      "confirmed": 26283,
+      "confirmed": 25899,
       "date": "2020-4-25"
     },
     {
-      "confirmed": 27890,
+      "confirmed": 27510,
       "date": "2020-4-26"
     },
     {
-      "confirmed": 29451,
+      "confirmed": 29170,
       "date": "2020-4-27"
     },
     {
-      "confirmed": 31324,
+      "confirmed": 30879,
       "date": "2020-4-28"
     },
     {
-      "confirmed": 33211,
+      "confirmed": 32635,
       "date": "2020-4-29"
     },
     {
-      "confirmed": 35111,
+      "confirmed": 34440,
       "date": "2020-4-30"
     },
     {
-      "confirmed": 37066,
+      "confirmed": 36294,
       "date": "2020-5-1"
     },
     {
-      "confirmed": 39076,
+      "confirmed": 38195,
       "date": "2020-5-2"
     },
     {
-      "confirmed": 41141,
+      "confirmed": 40145,
       "date": "2020-5-3"
     },
     {
-      "confirmed": 43261,
+      "confirmed": 42143,
       "date": "2020-5-4"
     },
     {
-      "confirmed": 45435,
+      "confirmed": 44189,
       "date": "2020-5-5"
     },
     {
-      "confirmed": 47665,
+      "confirmed": 46284,
       "date": "2020-5-6"
     },
     {
-      "confirmed": 49950,
+      "confirmed": 48427,
       "date": "2020-5-7"
     },
     {
-      "confirmed": 52290,
+      "confirmed": 50618,
       "date": "2020-5-8"
     },
     {
-      "confirmed": 54684,
+      "confirmed": 52857,
       "date": "2020-5-9"
     },
     {
-      "confirmed": 57134,
+      "confirmed": 55145,
       "date": "2020-5-10"
     },
     {
-      "confirmed": 59638,
+      "confirmed": 57481,
       "date": "2020-5-11"
-    },
-    {
-      "confirmed": 62198,
-      "date": "2020-5-12"
-    },
-    {
-      "confirmed": 64812,
-      "date": "2020-5-13"
-    },
-    {
-      "confirmed": 67482,
-      "date": "2020-5-14"
-    },
-    {
-      "confirmed": 70206,
-      "date": "2020-5-15"
-    },
-    {
-      "confirmed": 72986,
-      "date": "2020-5-16"
-    },
-    {
-      "confirmed": 75820,
-      "date": "2020-5-17"
->>>>>>> 366c7084b9e6bf5a91f474411e28eeb27e812e05
     }
   ]
 }
