@@ -45,12 +45,6 @@ reg = LinearRegression().fit(poly.fit_transform(X), y)
 
 y_pred = reg.predict(poly.fit_transform(X_pred))
 
-plt.scatter(X, y,  color='black')
-plt.plot(X_pred, y_pred, color='blue', linewidth=3)
-#plt.xticks(())
-#plt.yticks(())
-plt.show()
-
 allcases = realcases
 for item in y_pred[-nfuturedates:]:
     allcases.append(int(item))
