@@ -11,26 +11,30 @@ from random import random
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 
-response = requests.get('https://api.covid19india.org/data.json')
+response = requests.get('https://pomber.github.io/covid19/timeseries.json')
 
 npastdates = 20
 nfuturedates = 20
 
 cases = []
 dates = []
+for item in response.json()["India"]:
+    cases.append(item["confirmed"])
+    dates.append(item["date"])
 
-for item in response.json()["cases_time_series"]:
-    cases.append(item["totalconfirmed"])
-    dates.append(item["date"].strip())
-"""
 pdate = dates[-1]
 dates = dates[:-1]
 
-for date in pd.date_range(pdate + " 2020", periods=nfuturedates, freq='d'):
-    dates.append(str(date.day) + " " + str(date.month_name()))
+for date in pd.date_range(pdate, periods=nfuturedates, freq='d'):
+    [y, m, d] = str(date)[:10].split("-")
+    if m[0] == '0':
+        m = m[-1]
+    if d[0] == '0':
+        d = d[-1]
+    dates.append(y + "-" + m + "-" + d)
 
 realcases = cases
-#cases = cases[-npastdates:]
+cases = cases[-npastdates:]
 days = list(range(len(cases)))
 
 X = [[day] for day in days]
@@ -39,19 +43,11 @@ y = cases
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
 
-poly = PolynomialFeatures(3)
+poly = PolynomialFeatures(2)
 
 reg = LinearRegression().fit(poly.fit_transform(X), y)
 
 y_pred = reg.predict(poly.fit_transform(X_pred))
-"""
-plt.scatter(dates, cases,  color='black')
-#plt.plot(X_pred, y_pred, color='blue', linewidth=3)
-#plt.xticks(())
-#plt.yticks(())
-plt.show()
-
-"""
 
 allcases = realcases
 for item in y_pred[-20:]:
@@ -72,4 +68,3 @@ with open("jsons/current.json", 'w') as f:
     f.write(json.dumps(json.loads(jsondata), indent=2, sort_keys=True))
 
 shutil.copyfile("jsons/current.json", "jsons/" + pdate + ".json")
-"""
