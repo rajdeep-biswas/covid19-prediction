@@ -393,6 +393,7 @@
       "date": "6 May"
     },
     {
+<<<<<<< HEAD
       "dailyconfirmed": 49667,
       "date": "7 May"
     },
@@ -439,6 +440,86 @@
     {
       "dailyconfirmed": 78032,
       "date": "18 May"
+=======
+      "confirmed": 33062,
+      "date": "2020-4-29"
+    },
+    {
+      "confirmed": 35051,
+      "date": "2020-4-30"
+    },
+    {
+      "confirmed": 36995,
+      "date": "2020-5-1"
+    },
+    {
+      "confirmed": 38994,
+      "date": "2020-5-2"
+    },
+    {
+      "confirmed": 41047,
+      "date": "2020-5-3"
+    },
+    {
+      "confirmed": 43155,
+      "date": "2020-5-4"
+    },
+    {
+      "confirmed": 45316,
+      "date": "2020-5-5"
+    },
+    {
+      "confirmed": 47532,
+      "date": "2020-5-6"
+    },
+    {
+      "confirmed": 49802,
+      "date": "2020-5-7"
+    },
+    {
+      "confirmed": 52127,
+      "date": "2020-5-8"
+    },
+    {
+      "confirmed": 54506,
+      "date": "2020-5-9"
+    },
+    {
+      "confirmed": 56938,
+      "date": "2020-5-10"
+    },
+    {
+      "confirmed": 59426,
+      "date": "2020-5-11"
+    },
+    {
+      "confirmed": 61967,
+      "date": "2020-5-12"
+    },
+    {
+      "confirmed": 64563,
+      "date": "2020-5-13"
+    },
+    {
+      "confirmed": 67213,
+      "date": "2020-5-14"
+    },
+    {
+      "confirmed": 69917,
+      "date": "2020-5-15"
+    },
+    {
+      "confirmed": 72676,
+      "date": "2020-5-16"
+    },
+    {
+      "confirmed": 75489,
+      "date": "2020-5-17"
+    },
+    {
+      "confirmed": 78356,
+      "date": "2020-5-18"
+>>>>>>> b24f818... automated update
     }
   ]
 }
