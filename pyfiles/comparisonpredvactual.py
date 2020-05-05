@@ -11,15 +11,22 @@ from random import random
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 
-response = requests.get('https://api.covid19india.org/data.json')
+newjson = json.load(open("../jsons/04 May.json", "r"))
+oldjson = json.load(open("../jsons/2020-4-15.json", "r"))
 
-cases = []
-dates = []
+oldcases = []
+olddates = []
+for item in oldjson["India"]:
+    oldcases.append(item["confirmed"])
+    olddates.append(item["date"])
 
-for item in response.json()["cases_time_series"]:
-    cases.append(int(item["totalconfirmed"]))
-    dates.append(item["date"].strip())
-
+newcases = []
+newdates = []
+for item in newjson["cases_time_series"]:
+    newcases.append(int(item["dailyconfirmed"]))
+    newdates.append(item["date"].strip())
+    
+"""
 npastdates = len(dates) // 3
 nfuturedates = 20
     
@@ -54,13 +61,14 @@ for i in range(len(dates)):
     datecases.append([dates[i], allcases[i]])
 
 jsondata = []
-for item in [{"date": date, "totalconfirmed": confirmed} for [date, confirmed] in datecases]:
+for item in [{"date": date, "dailyconfirmed": confirmed} for [date, confirmed] in datecases]:
     jsondata.append(item)
 
 jsondata = str({"cases_time_series" : jsondata}).replace("'", '"')
 #print(y_pred)
 
-with open("../jsons/current.json", 'w') as f:
+with open("jsons/current.json", 'w') as f:
     f.write(json.dumps(json.loads(jsondata), indent=2, sort_keys=True))
 
-shutil.copyfile("../jsons/current.json", "../jsons/" + pdate + ".json")
+shutil.copyfile("jsons/current.json", "jsons/" + pdate + ".json")
+"""

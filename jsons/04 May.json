@@ -1,464 +1,464 @@
 {
   "cases_time_series": [
     {
-      "dailyconfirmed": 1,
-      "date": "30 January"
+      "date": "30 January",
+      "totalconfirmed": 1
     },
     {
-      "dailyconfirmed": 1,
-      "date": "31 January"
+      "date": "31 January",
+      "totalconfirmed": 1
     },
     {
-      "dailyconfirmed": 1,
-      "date": "01 February"
+      "date": "01 February",
+      "totalconfirmed": 1
     },
     {
-      "dailyconfirmed": 2,
-      "date": "02 February"
+      "date": "02 February",
+      "totalconfirmed": 2
     },
     {
-      "dailyconfirmed": 3,
-      "date": "03 February"
+      "date": "03 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "04 February"
+      "date": "04 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "05 February"
+      "date": "05 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "06 February"
+      "date": "06 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "07 February"
+      "date": "07 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "08 February"
+      "date": "08 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "09 February"
+      "date": "09 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "10 February"
+      "date": "10 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "11 February"
+      "date": "11 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "12 February"
+      "date": "12 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "13 February"
+      "date": "13 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "14 February"
+      "date": "14 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "15 February"
+      "date": "15 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "16 February"
+      "date": "16 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "17 February"
+      "date": "17 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "18 February"
+      "date": "18 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "19 February"
+      "date": "19 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "20 February"
+      "date": "20 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "21 February"
+      "date": "21 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "22 February"
+      "date": "22 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "23 February"
+      "date": "23 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "24 February"
+      "date": "24 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "25 February"
+      "date": "25 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "26 February"
+      "date": "26 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "27 February"
+      "date": "27 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "28 February"
+      "date": "28 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "29 February"
+      "date": "29 February",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 3,
-      "date": "01 March"
+      "date": "01 March",
+      "totalconfirmed": 3
     },
     {
-      "dailyconfirmed": 5,
-      "date": "02 March"
+      "date": "02 March",
+      "totalconfirmed": 5
     },
     {
-      "dailyconfirmed": 6,
-      "date": "03 March"
+      "date": "03 March",
+      "totalconfirmed": 6
     },
     {
-      "dailyconfirmed": 28,
-      "date": "04 March"
+      "date": "04 March",
+      "totalconfirmed": 28
     },
     {
-      "dailyconfirmed": 30,
-      "date": "05 March"
+      "date": "05 March",
+      "totalconfirmed": 30
     },
     {
-      "dailyconfirmed": 31,
-      "date": "06 March"
+      "date": "06 March",
+      "totalconfirmed": 31
     },
     {
-      "dailyconfirmed": 34,
-      "date": "07 March"
+      "date": "07 March",
+      "totalconfirmed": 34
     },
     {
-      "dailyconfirmed": 39,
-      "date": "08 March"
+      "date": "08 March",
+      "totalconfirmed": 39
     },
     {
-      "dailyconfirmed": 48,
-      "date": "09 March"
+      "date": "09 March",
+      "totalconfirmed": 48
     },
     {
-      "dailyconfirmed": 63,
-      "date": "10 March"
+      "date": "10 March",
+      "totalconfirmed": 63
     },
     {
-      "dailyconfirmed": 71,
-      "date": "11 March"
+      "date": "11 March",
+      "totalconfirmed": 71
     },
     {
-      "dailyconfirmed": 81,
-      "date": "12 March"
+      "date": "12 March",
+      "totalconfirmed": 81
     },
     {
-      "dailyconfirmed": 91,
-      "date": "13 March"
+      "date": "13 March",
+      "totalconfirmed": 91
     },
     {
-      "dailyconfirmed": 102,
-      "date": "14 March"
+      "date": "14 March",
+      "totalconfirmed": 102
     },
     {
-      "dailyconfirmed": 112,
-      "date": "15 March"
+      "date": "15 March",
+      "totalconfirmed": 112
     },
     {
-      "dailyconfirmed": 126,
-      "date": "16 March"
+      "date": "16 March",
+      "totalconfirmed": 126
     },
     {
-      "dailyconfirmed": 146,
-      "date": "17 March"
+      "date": "17 March",
+      "totalconfirmed": 146
     },
     {
-      "dailyconfirmed": 171,
-      "date": "18 March"
+      "date": "18 March",
+      "totalconfirmed": 171
     },
     {
-      "dailyconfirmed": 198,
-      "date": "19 March"
+      "date": "19 March",
+      "totalconfirmed": 198
     },
     {
-      "dailyconfirmed": 256,
-      "date": "20 March"
+      "date": "20 March",
+      "totalconfirmed": 256
     },
     {
-      "dailyconfirmed": 334,
-      "date": "21 March"
+      "date": "21 March",
+      "totalconfirmed": 334
     },
     {
-      "dailyconfirmed": 403,
-      "date": "22 March"
+      "date": "22 March",
+      "totalconfirmed": 403
     },
     {
-      "dailyconfirmed": 497,
-      "date": "23 March"
+      "date": "23 March",
+      "totalconfirmed": 497
     },
     {
-      "dailyconfirmed": 571,
-      "date": "24 March"
+      "date": "24 March",
+      "totalconfirmed": 571
     },
     {
-      "dailyconfirmed": 657,
-      "date": "25 March"
+      "date": "25 March",
+      "totalconfirmed": 657
     },
     {
-      "dailyconfirmed": 730,
-      "date": "26 March"
+      "date": "26 March",
+      "totalconfirmed": 730
     },
     {
-      "dailyconfirmed": 883,
-      "date": "27 March"
+      "date": "27 March",
+      "totalconfirmed": 883
     },
     {
-      "dailyconfirmed": 1019,
-      "date": "28 March"
+      "date": "28 March",
+      "totalconfirmed": 1019
     },
     {
-      "dailyconfirmed": 1139,
-      "date": "29 March"
+      "date": "29 March",
+      "totalconfirmed": 1139
     },
     {
-      "dailyconfirmed": 1326,
-      "date": "30 March"
+      "date": "30 March",
+      "totalconfirmed": 1326
     },
     {
-      "dailyconfirmed": 1635,
-      "date": "31 March"
+      "date": "31 March",
+      "totalconfirmed": 1635
     },
     {
-      "dailyconfirmed": 2059,
-      "date": "01 April"
+      "date": "01 April",
+      "totalconfirmed": 2059
     },
     {
-      "dailyconfirmed": 2545,
-      "date": "02 April"
+      "date": "02 April",
+      "totalconfirmed": 2545
     },
     {
-      "dailyconfirmed": 3105,
-      "date": "03 April"
+      "date": "03 April",
+      "totalconfirmed": 3105
     },
     {
-      "dailyconfirmed": 3684,
-      "date": "04 April"
+      "date": "04 April",
+      "totalconfirmed": 3684
     },
     {
-      "dailyconfirmed": 4293,
-      "date": "05 April"
+      "date": "05 April",
+      "totalconfirmed": 4293
     },
     {
-      "dailyconfirmed": 4777,
-      "date": "06 April"
+      "date": "06 April",
+      "totalconfirmed": 4777
     },
     {
-      "dailyconfirmed": 5350,
-      "date": "07 April"
+      "date": "07 April",
+      "totalconfirmed": 5350
     },
     {
-      "dailyconfirmed": 5915,
-      "date": "08 April"
+      "date": "08 April",
+      "totalconfirmed": 5915
     },
     {
-      "dailyconfirmed": 6728,
-      "date": "09 April"
+      "date": "09 April",
+      "totalconfirmed": 6728
     },
     {
-      "dailyconfirmed": 7599,
-      "date": "10 April"
+      "date": "10 April",
+      "totalconfirmed": 7599
     },
     {
-      "dailyconfirmed": 8453,
-      "date": "11 April"
+      "date": "11 April",
+      "totalconfirmed": 8453
     },
     {
-      "dailyconfirmed": 9211,
-      "date": "12 April"
+      "date": "12 April",
+      "totalconfirmed": 9211
     },
     {
-      "dailyconfirmed": 10454,
-      "date": "13 April"
+      "date": "13 April",
+      "totalconfirmed": 10454
     },
     {
-      "dailyconfirmed": 11485,
-      "date": "14 April"
+      "date": "14 April",
+      "totalconfirmed": 11485
     },
     {
-      "dailyconfirmed": 12371,
-      "date": "15 April"
+      "date": "15 April",
+      "totalconfirmed": 12371
     },
     {
-      "dailyconfirmed": 13432,
-      "date": "16 April"
+      "date": "16 April",
+      "totalconfirmed": 13432
     },
     {
-      "dailyconfirmed": 14354,
-      "date": "17 April"
+      "date": "17 April",
+      "totalconfirmed": 14354
     },
     {
-      "dailyconfirmed": 15725,
-      "date": "18 April"
+      "date": "18 April",
+      "totalconfirmed": 15725
     },
     {
-      "dailyconfirmed": 17305,
-      "date": "19 April"
+      "date": "19 April",
+      "totalconfirmed": 17305
     },
     {
-      "dailyconfirmed": 18544,
-      "date": "20 April"
+      "date": "20 April",
+      "totalconfirmed": 18544
     },
     {
-      "dailyconfirmed": 20081,
-      "date": "21 April"
+      "date": "21 April",
+      "totalconfirmed": 20081
     },
     {
-      "dailyconfirmed": 21373,
-      "date": "22 April"
+      "date": "22 April",
+      "totalconfirmed": 21373
     },
     {
-      "dailyconfirmed": 23040,
-      "date": "23 April"
+      "date": "23 April",
+      "totalconfirmed": 23040
     },
     {
-      "dailyconfirmed": 24448,
-      "date": "24 April"
+      "date": "24 April",
+      "totalconfirmed": 24448
     },
     {
-      "dailyconfirmed": 26283,
-      "date": "25 April"
+      "date": "25 April",
+      "totalconfirmed": 26283
     },
     {
-      "dailyconfirmed": 27890,
-      "date": "26 April"
+      "date": "26 April",
+      "totalconfirmed": 27890
     },
     {
-      "dailyconfirmed": 29458,
-      "date": "27 April"
+      "date": "27 April",
+      "totalconfirmed": 29458
     },
     {
-      "dailyconfirmed": 31360,
-      "date": "28 April"
+      "date": "28 April",
+      "totalconfirmed": 31360
     },
     {
-      "dailyconfirmed": 33065,
-      "date": "29 April"
+      "date": "29 April",
+      "totalconfirmed": 33065
     },
     {
-      "dailyconfirmed": 34866,
-      "date": "30 April"
+      "date": "30 April",
+      "totalconfirmed": 34866
     },
     {
-      "dailyconfirmed": 37262,
-      "date": "01 May"
+      "date": "01 May",
+      "totalconfirmed": 37262
     },
     {
-      "dailyconfirmed": 39826,
-      "date": "02 May"
+      "date": "02 May",
+      "totalconfirmed": 39826
     },
     {
-      "dailyconfirmed": 42778,
-      "date": "03 May"
+      "date": "03 May",
+      "totalconfirmed": 42778
     },
     {
-      "dailyconfirmed": 46434,
-      "date": "4 May"
+      "date": "4 May",
+      "totalconfirmed": 46434
     },
     {
-      "dailyconfirmed": 46902,
-      "date": "5 May"
+      "date": "5 May",
+      "totalconfirmed": 48878
     },
     {
-      "dailyconfirmed": 49312,
-      "date": "6 May"
+      "date": "6 May",
+      "totalconfirmed": 52254
     },
     {
-      "dailyconfirmed": 51786,
-      "date": "7 May"
+      "date": "7 May",
+      "totalconfirmed": 55909
     },
     {
-      "dailyconfirmed": 54324,
-      "date": "8 May"
+      "date": "8 May",
+      "totalconfirmed": 59867
     },
     {
-      "dailyconfirmed": 56926,
-      "date": "9 May"
+      "date": "9 May",
+      "totalconfirmed": 64154
     },
     {
-      "dailyconfirmed": 59592,
-      "date": "10 May"
+      "date": "10 May",
+      "totalconfirmed": 68799
     },
     {
-      "dailyconfirmed": 62322,
-      "date": "11 May"
+      "date": "11 May",
+      "totalconfirmed": 73828
     },
     {
-      "dailyconfirmed": 65116,
-      "date": "12 May"
+      "date": "12 May",
+      "totalconfirmed": 79271
     },
     {
-      "dailyconfirmed": 67974,
-      "date": "13 May"
+      "date": "13 May",
+      "totalconfirmed": 85160
     },
     {
-      "dailyconfirmed": 70896,
-      "date": "14 May"
+      "date": "14 May",
+      "totalconfirmed": 91526
     },
     {
-      "dailyconfirmed": 73881,
-      "date": "15 May"
+      "date": "15 May",
+      "totalconfirmed": 98403
     },
     {
-      "dailyconfirmed": 76931,
-      "date": "16 May"
+      "date": "16 May",
+      "totalconfirmed": 105824
     },
     {
-      "dailyconfirmed": 80045,
-      "date": "17 May"
+      "date": "17 May",
+      "totalconfirmed": 113826
     },
     {
-      "dailyconfirmed": 83222,
-      "date": "18 May"
+      "date": "18 May",
+      "totalconfirmed": 122446
     },
     {
-      "dailyconfirmed": 86464,
-      "date": "19 May"
+      "date": "19 May",
+      "totalconfirmed": 131721
     },
     {
-      "dailyconfirmed": 89769,
-      "date": "20 May"
+      "date": "20 May",
+      "totalconfirmed": 141691
     },
     {
-      "dailyconfirmed": 93139,
-      "date": "21 May"
+      "date": "21 May",
+      "totalconfirmed": 152397
     },
     {
-      "dailyconfirmed": 96572,
-      "date": "22 May"
+      "date": "22 May",
+      "totalconfirmed": 163879
     },
     {
-      "dailyconfirmed": 100069,
-      "date": "23 May"
+      "date": "23 May",
+      "totalconfirmed": 176181
     }
   ]
 }
