@@ -21,8 +21,8 @@ for item in response.json()["cases_time_series"]:
     dates.append(item["date"].strip())
 
 npastdates = len(dates) // 3
-nfuturedates = 20
-    
+nfuturedates = 14
+
 pdate = dates[-1]
 dates = dates[:-1]
 
