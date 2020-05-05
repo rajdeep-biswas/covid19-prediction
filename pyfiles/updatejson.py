@@ -39,7 +39,7 @@ y = cases
 X_pred = list(range(len(cases) + nfuturedates))
 X_pred = [[x_pred] for x_pred in X_pred]
 
-poly = PolynomialFeatures(2)
+poly = PolynomialFeatures(4)
 
 reg = LinearRegression().fit(poly.fit_transform(X), y)
 
