@@ -11,64 +11,28 @@ from random import random
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 
-newjson = json.load(open("../jsons/04 May.json", "r"))
+response = requests.get('https://api.covid19india.org/data.json')
 oldjson = json.load(open("../jsons/2020-4-15.json", "r"))
 
-oldcases = []
-olddates = []
+predictedcases = []
+predicteddates = []
 for item in oldjson["India"]:
-    oldcases.append(item["confirmed"])
-    olddates.append(item["date"])
+    predictedcases.append(item["confirmed"])
+    predicteddates.append(item["date"])
 
-newcases = []
-newdates = []
-for item in newjson["cases_time_series"]:
-    newcases.append(int(item["dailyconfirmed"]))
-    newdates.append(item["date"].strip())
-    
-"""
-npastdates = len(dates) // 3
-nfuturedates = 20
-    
-pdate = dates[-1]
-dates = dates[:-1]
+actualcases = []
+actualdates = []
+for item in response.json()["cases_time_series"]:
+    actualcases.append(int(item["totalconfirmed"]))
+    actualdates.append(item["date"].strip())
 
-for date in pd.date_range(pdate + " 2020", periods=nfuturedates, freq='d'):
-    dates.append(str(date.day) + " " + str(date.month_name()))
+predictedcases = predictedcases[8:]
+#actualcases = actualcases[:len(predictedcases)]
+days = list(range(len(predictedcases)))
 
-realcases = cases
-cases = cases[-npastdates:]
-days = list(range(len(cases)))
+#predicteddates = predicteddates[8:]
+#actualdates = actualdates[:len(predicteddates) - 2]
 
-X = [[day] for day in days]
-y = cases
-
-X_pred = list(range(len(cases) + nfuturedates))
-X_pred = [[x_pred] for x_pred in X_pred]
-
-poly = PolynomialFeatures(4)
-
-reg = LinearRegression().fit(poly.fit_transform(X), y)
-
-y_pred = reg.predict(poly.fit_transform(X_pred))
-
-allcases = realcases
-for item in y_pred[-nfuturedates:]:
-    allcases.append(int(item))
-    
-datecases = []
-for i in range(len(dates)):
-    datecases.append([dates[i], allcases[i]])
-
-jsondata = []
-for item in [{"date": date, "dailyconfirmed": confirmed} for [date, confirmed] in datecases]:
-    jsondata.append(item)
-
-jsondata = str({"cases_time_series" : jsondata}).replace("'", '"')
-#print(y_pred)
-
-with open("jsons/current.json", 'w') as f:
-    f.write(json.dumps(json.loads(jsondata), indent=2, sort_keys=True))
-
-shutil.copyfile("jsons/current.json", "jsons/" + pdate + ".json")
-"""
+plt.plot(days, predictedcases, 'r')
+plt.plot(days, actualcases)
+plt.show()
