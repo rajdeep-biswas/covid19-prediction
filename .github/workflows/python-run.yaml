@@ -5,7 +5,7 @@ name: python-run
 # Controls when the action will run. Triggers the workflow on a cron schedule
 on: 
   schedule:
-    - cron: '30 8 * * *'
+    - cron: '30 8,20 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
