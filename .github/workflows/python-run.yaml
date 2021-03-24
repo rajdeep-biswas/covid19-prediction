@@ -4,6 +4,8 @@ name: python-run
 
 # Controls when the action will run. Triggers the workflow on a cron schedule
 on: 
+  push: 
+    branches: [ master ]
   schedule:
     - cron: '30 8,20 * * *'
 
@@ -41,7 +43,7 @@ jobs:
       run: |
         git config --global user.email "botdeep@email.id"
         git config --global user.name "BOT Rajdeep"
-        git pull
         git add .
         git commit -m "automated update"
-        git push
+        git status
+        git push origin master
