@@ -1,0 +1,1732 @@
+{
+  "cases_time_series": [
+    {
+      "date": "30 January",
+      "totalconfirmed": 1
+    },
+    {
+      "date": "31 January",
+      "totalconfirmed": 1
+    },
+    {
+      "date": "01 February",
+      "totalconfirmed": 1
+    },
+    {
+      "date": "02 February",
+      "totalconfirmed": 2
+    },
+    {
+      "date": "03 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "04 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "05 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "06 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "07 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "08 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "09 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "10 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "11 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "12 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "13 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "14 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "15 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "16 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "17 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "18 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "19 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "20 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "21 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "22 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "23 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "24 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "25 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "26 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "27 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "28 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "29 February",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "01 March",
+      "totalconfirmed": 3
+    },
+    {
+      "date": "02 March",
+      "totalconfirmed": 5
+    },
+    {
+      "date": "03 March",
+      "totalconfirmed": 6
+    },
+    {
+      "date": "04 March",
+      "totalconfirmed": 28
+    },
+    {
+      "date": "05 March",
+      "totalconfirmed": 30
+    },
+    {
+      "date": "06 March",
+      "totalconfirmed": 31
+    },
+    {
+      "date": "07 March",
+      "totalconfirmed": 34
+    },
+    {
+      "date": "08 March",
+      "totalconfirmed": 39
+    },
+    {
+      "date": "09 March",
+      "totalconfirmed": 48
+    },
+    {
+      "date": "10 March",
+      "totalconfirmed": 63
+    },
+    {
+      "date": "11 March",
+      "totalconfirmed": 71
+    },
+    {
+      "date": "12 March",
+      "totalconfirmed": 81
+    },
+    {
+      "date": "13 March",
+      "totalconfirmed": 91
+    },
+    {
+      "date": "14 March",
+      "totalconfirmed": 102
+    },
+    {
+      "date": "15 March",
+      "totalconfirmed": 112
+    },
+    {
+      "date": "16 March",
+      "totalconfirmed": 126
+    },
+    {
+      "date": "17 March",
+      "totalconfirmed": 146
+    },
+    {
+      "date": "18 March",
+      "totalconfirmed": 171
+    },
+    {
+      "date": "19 March",
+      "totalconfirmed": 198
+    },
+    {
+      "date": "20 March",
+      "totalconfirmed": 256
+    },
+    {
+      "date": "21 March",
+      "totalconfirmed": 334
+    },
+    {
+      "date": "22 March",
+      "totalconfirmed": 403
+    },
+    {
+      "date": "23 March",
+      "totalconfirmed": 497
+    },
+    {
+      "date": "24 March",
+      "totalconfirmed": 571
+    },
+    {
+      "date": "25 March",
+      "totalconfirmed": 657
+    },
+    {
+      "date": "26 March",
+      "totalconfirmed": 730
+    },
+    {
+      "date": "27 March",
+      "totalconfirmed": 883
+    },
+    {
+      "date": "28 March",
+      "totalconfirmed": 1019
+    },
+    {
+      "date": "29 March",
+      "totalconfirmed": 1139
+    },
+    {
+      "date": "30 March",
+      "totalconfirmed": 1326
+    },
+    {
+      "date": "31 March",
+      "totalconfirmed": 1635
+    },
+    {
+      "date": "01 April",
+      "totalconfirmed": 2059
+    },
+    {
+      "date": "02 April",
+      "totalconfirmed": 2545
+    },
+    {
+      "date": "03 April",
+      "totalconfirmed": 3105
+    },
+    {
+      "date": "04 April",
+      "totalconfirmed": 3684
+    },
+    {
+      "date": "05 April",
+      "totalconfirmed": 4293
+    },
+    {
+      "date": "06 April",
+      "totalconfirmed": 4777
+    },
+    {
+      "date": "07 April",
+      "totalconfirmed": 5350
+    },
+    {
+      "date": "08 April",
+      "totalconfirmed": 5915
+    },
+    {
+      "date": "09 April",
+      "totalconfirmed": 6728
+    },
+    {
+      "date": "10 April",
+      "totalconfirmed": 7599
+    },
+    {
+      "date": "11 April",
+      "totalconfirmed": 8453
+    },
+    {
+      "date": "12 April",
+      "totalconfirmed": 9211
+    },
+    {
+      "date": "13 April",
+      "totalconfirmed": 10454
+    },
+    {
+      "date": "14 April",
+      "totalconfirmed": 11485
+    },
+    {
+      "date": "15 April",
+      "totalconfirmed": 12371
+    },
+    {
+      "date": "16 April",
+      "totalconfirmed": 13432
+    },
+    {
+      "date": "17 April",
+      "totalconfirmed": 14354
+    },
+    {
+      "date": "18 April",
+      "totalconfirmed": 15725
+    },
+    {
+      "date": "19 April",
+      "totalconfirmed": 17305
+    },
+    {
+      "date": "20 April",
+      "totalconfirmed": 18544
+    },
+    {
+      "date": "21 April",
+      "totalconfirmed": 20081
+    },
+    {
+      "date": "22 April",
+      "totalconfirmed": 21373
+    },
+    {
+      "date": "23 April",
+      "totalconfirmed": 23040
+    },
+    {
+      "date": "24 April",
+      "totalconfirmed": 24448
+    },
+    {
+      "date": "25 April",
+      "totalconfirmed": 26283
+    },
+    {
+      "date": "26 April",
+      "totalconfirmed": 27890
+    },
+    {
+      "date": "27 April",
+      "totalconfirmed": 29458
+    },
+    {
+      "date": "28 April",
+      "totalconfirmed": 31360
+    },
+    {
+      "date": "29 April",
+      "totalconfirmed": 33065
+    },
+    {
+      "date": "30 April",
+      "totalconfirmed": 34866
+    },
+    {
+      "date": "01 May",
+      "totalconfirmed": 37262
+    },
+    {
+      "date": "02 May",
+      "totalconfirmed": 39826
+    },
+    {
+      "date": "03 May",
+      "totalconfirmed": 42778
+    },
+    {
+      "date": "04 May",
+      "totalconfirmed": 46434
+    },
+    {
+      "date": "05 May",
+      "totalconfirmed": 49405
+    },
+    {
+      "date": "06 May",
+      "totalconfirmed": 53007
+    },
+    {
+      "date": "07 May",
+      "totalconfirmed": 56351
+    },
+    {
+      "date": "08 May",
+      "totalconfirmed": 59690
+    },
+    {
+      "date": "09 May",
+      "totalconfirmed": 62865
+    },
+    {
+      "date": "10 May",
+      "totalconfirmed": 67176
+    },
+    {
+      "date": "11 May",
+      "totalconfirmed": 70768
+    },
+    {
+      "date": "12 May",
+      "totalconfirmed": 74330
+    },
+    {
+      "date": "13 May",
+      "totalconfirmed": 78056
+    },
+    {
+      "date": "14 May",
+      "totalconfirmed": 82047
+    },
+    {
+      "date": "15 May",
+      "totalconfirmed": 85855
+    },
+    {
+      "date": "16 May",
+      "totalconfirmed": 90649
+    },
+    {
+      "date": "17 May",
+      "totalconfirmed": 95698
+    },
+    {
+      "date": "18 May",
+      "totalconfirmed": 100326
+    },
+    {
+      "date": "19 May",
+      "totalconfirmed": 106480
+    },
+    {
+      "date": "20 May",
+      "totalconfirmed": 112200
+    },
+    {
+      "date": "21 May",
+      "totalconfirmed": 118223
+    },
+    {
+      "date": "22 May",
+      "totalconfirmed": 124759
+    },
+    {
+      "date": "23 May",
+      "totalconfirmed": 131424
+    },
+    {
+      "date": "24 May",
+      "totalconfirmed": 138537
+    },
+    {
+      "date": "25 May",
+      "totalconfirmed": 144951
+    },
+    {
+      "date": "26 May",
+      "totalconfirmed": 150858
+    },
+    {
+      "date": "27 May",
+      "totalconfirmed": 158104
+    },
+    {
+      "date": "28 May",
+      "totalconfirmed": 165358
+    },
+    {
+      "date": "29 May",
+      "totalconfirmed": 173496
+    },
+    {
+      "date": "30 May",
+      "totalconfirmed": 181860
+    },
+    {
+      "date": "31 May",
+      "totalconfirmed": 190649
+    },
+    {
+      "date": "01 June",
+      "totalconfirmed": 198372
+    },
+    {
+      "date": "02 June",
+      "totalconfirmed": 207187
+    },
+    {
+      "date": "03 June",
+      "totalconfirmed": 216876
+    },
+    {
+      "date": "04 June",
+      "totalconfirmed": 226723
+    },
+    {
+      "date": "05 June",
+      "totalconfirmed": 236195
+    },
+    {
+      "date": "06 June",
+      "totalconfirmed": 246603
+    },
+    {
+      "date": "07 June",
+      "totalconfirmed": 257485
+    },
+    {
+      "date": "08 June",
+      "totalconfirmed": 266021
+    },
+    {
+      "date": "09 June",
+      "totalconfirmed": 276002
+    },
+    {
+      "date": "10 June",
+      "totalconfirmed": 287158
+    },
+    {
+      "date": "11 June",
+      "totalconfirmed": 298293
+    },
+    {
+      "date": "12 June",
+      "totalconfirmed": 309599
+    },
+    {
+      "date": "13 June",
+      "totalconfirmed": 321638
+    },
+    {
+      "date": "14 June",
+      "totalconfirmed": 333043
+    },
+    {
+      "date": "15 June",
+      "totalconfirmed": 343075
+    },
+    {
+      "date": "16 June",
+      "totalconfirmed": 354161
+    },
+    {
+      "date": "17 June",
+      "totalconfirmed": 367269
+    },
+    {
+      "date": "18 June",
+      "totalconfirmed": 381098
+    },
+    {
+      "date": "19 June",
+      "totalconfirmed": 395838
+    },
+    {
+      "date": "20 June",
+      "totalconfirmed": 411753
+    },
+    {
+      "date": "21 June",
+      "totalconfirmed": 426904
+    },
+    {
+      "date": "22 June",
+      "totalconfirmed": 440464
+    },
+    {
+      "date": "23 June",
+      "totalconfirmed": 456120
+    },
+    {
+      "date": "24 June",
+      "totalconfirmed": 472988
+    },
+    {
+      "date": "25 June",
+      "totalconfirmed": 491193
+    },
+    {
+      "date": "26 June",
+      "totalconfirmed": 509448
+    },
+    {
+      "date": "27 June",
+      "totalconfirmed": 529590
+    },
+    {
+      "date": "28 June",
+      "totalconfirmed": 549200
+    },
+    {
+      "date": "29 June",
+      "totalconfirmed": 567539
+    },
+    {
+      "date": "30 June",
+      "totalconfirmed": 585795
+    },
+    {
+      "date": "01 July",
+      "totalconfirmed": 605224
+    },
+    {
+      "date": "02 July",
+      "totalconfirmed": 627171
+    },
+    {
+      "date": "03 July",
+      "totalconfirmed": 649889
+    },
+    {
+      "date": "04 July",
+      "totalconfirmed": 673907
+    },
+    {
+      "date": "05 July",
+      "totalconfirmed": 697849
+    },
+    {
+      "date": "06 July",
+      "totalconfirmed": 720349
+    },
+    {
+      "date": "07 July",
+      "totalconfirmed": 743496
+    },
+    {
+      "date": "08 July",
+      "totalconfirmed": 769057
+    },
+    {
+      "date": "09 July",
+      "totalconfirmed": 794847
+    },
+    {
+      "date": "10 July",
+      "totalconfirmed": 822609
+    },
+    {
+      "date": "11 July",
+      "totalconfirmed": 850366
+    },
+    {
+      "date": "12 July",
+      "totalconfirmed": 879472
+    },
+    {
+      "date": "13 July",
+      "totalconfirmed": 907650
+    },
+    {
+      "date": "14 July",
+      "totalconfirmed": 937567
+    },
+    {
+      "date": "15 July",
+      "totalconfirmed": 970174
+    },
+    {
+      "date": "16 July",
+      "totalconfirmed": 1005642
+    },
+    {
+      "date": "17 July",
+      "totalconfirmed": 1040462
+    },
+    {
+      "date": "18 July",
+      "totalconfirmed": 1077873
+    },
+    {
+      "date": "19 July",
+      "totalconfirmed": 1118108
+    },
+    {
+      "date": "20 July",
+      "totalconfirmed": 1154914
+    },
+    {
+      "date": "21 July",
+      "totalconfirmed": 1194084
+    },
+    {
+      "date": "22 July",
+      "totalconfirmed": 1239685
+    },
+    {
+      "date": "23 July",
+      "totalconfirmed": 1288128
+    },
+    {
+      "date": "24 July",
+      "totalconfirmed": 1337016
+    },
+    {
+      "date": "25 July",
+      "totalconfirmed": 1387088
+    },
+    {
+      "date": "26 July",
+      "totalconfirmed": 1436020
+    },
+    {
+      "date": "27 July",
+      "totalconfirmed": 1482504
+    },
+    {
+      "date": "28 July",
+      "totalconfirmed": 1532135
+    },
+    {
+      "date": "29 July",
+      "totalconfirmed": 1584614
+    },
+    {
+      "date": "30 July",
+      "totalconfirmed": 1639582
+    },
+    {
+      "date": "31 July",
+      "totalconfirmed": 1697068
+    },
+    {
+      "date": "01 August",
+      "totalconfirmed": 1752185
+    },
+    {
+      "date": "02 August",
+      "totalconfirmed": 1804857
+    },
+    {
+      "date": "03 August",
+      "totalconfirmed": 1855345
+    },
+    {
+      "date": "04 August",
+      "totalconfirmed": 1906627
+    },
+    {
+      "date": "05 August",
+      "totalconfirmed": 1963253
+    },
+    {
+      "date": "06 August",
+      "totalconfirmed": 2025423
+    },
+    {
+      "date": "07 August",
+      "totalconfirmed": 2086878
+    },
+    {
+      "date": "08 August",
+      "totalconfirmed": 2152034
+    },
+    {
+      "date": "09 August",
+      "totalconfirmed": 2214151
+    },
+    {
+      "date": "10 August",
+      "totalconfirmed": 2267167
+    },
+    {
+      "date": "11 August",
+      "totalconfirmed": 2328419
+    },
+    {
+      "date": "12 August",
+      "totalconfirmed": 2395485
+    },
+    {
+      "date": "13 August",
+      "totalconfirmed": 2459626
+    },
+    {
+      "date": "14 August",
+      "totalconfirmed": 2525236
+    },
+    {
+      "date": "15 August",
+      "totalconfirmed": 2589222
+    },
+    {
+      "date": "16 August",
+      "totalconfirmed": 2647318
+    },
+    {
+      "date": "17 August",
+      "totalconfirmed": 2701616
+    },
+    {
+      "date": "18 August",
+      "totalconfirmed": 2766640
+    },
+    {
+      "date": "19 August",
+      "totalconfirmed": 2835836
+    },
+    {
+      "date": "20 August",
+      "totalconfirmed": 2904354
+    },
+    {
+      "date": "21 August",
+      "totalconfirmed": 2973383
+    },
+    {
+      "date": "22 August",
+      "totalconfirmed": 3043450
+    },
+    {
+      "date": "23 August",
+      "totalconfirmed": 3105199
+    },
+    {
+      "date": "24 August",
+      "totalconfirmed": 3164895
+    },
+    {
+      "date": "25 August",
+      "totalconfirmed": 3231768
+    },
+    {
+      "date": "26 August",
+      "totalconfirmed": 3307763
+    },
+    {
+      "date": "27 August",
+      "totalconfirmed": 3384590
+    },
+    {
+      "date": "28 August",
+      "totalconfirmed": 3461247
+    },
+    {
+      "date": "29 August",
+      "totalconfirmed": 3539726
+    },
+    {
+      "date": "30 August",
+      "totalconfirmed": 3619187
+    },
+    {
+      "date": "31 August",
+      "totalconfirmed": 3687953
+    },
+    {
+      "date": "01 September",
+      "totalconfirmed": 3766121
+    },
+    {
+      "date": "02 September",
+      "totalconfirmed": 3848981
+    },
+    {
+      "date": "03 September",
+      "totalconfirmed": 3933137
+    },
+    {
+      "date": "04 September",
+      "totalconfirmed": 4020252
+    },
+    {
+      "date": "05 September",
+      "totalconfirmed": 4110852
+    },
+    {
+      "date": "06 September",
+      "totalconfirmed": 4202577
+    },
+    {
+      "date": "07 September",
+      "totalconfirmed": 4277592
+    },
+    {
+      "date": "08 September",
+      "totalconfirmed": 4367447
+    },
+    {
+      "date": "09 September",
+      "totalconfirmed": 4462983
+    },
+    {
+      "date": "10 September",
+      "totalconfirmed": 4559745
+    },
+    {
+      "date": "11 September",
+      "totalconfirmed": 4657400
+    },
+    {
+      "date": "12 September",
+      "totalconfirmed": 4751814
+    },
+    {
+      "date": "13 September",
+      "totalconfirmed": 4845034
+    },
+    {
+      "date": "14 September",
+      "totalconfirmed": 4926947
+    },
+    {
+      "date": "15 September",
+      "totalconfirmed": 5018045
+    },
+    {
+      "date": "16 September",
+      "totalconfirmed": 5115905
+    },
+    {
+      "date": "17 September",
+      "totalconfirmed": 5212692
+    },
+    {
+      "date": "18 September",
+      "totalconfirmed": 5305665
+    },
+    {
+      "date": "19 September",
+      "totalconfirmed": 5398239
+    },
+    {
+      "date": "20 September",
+      "totalconfirmed": 5485634
+    },
+    {
+      "date": "21 September",
+      "totalconfirmed": 5560127
+    },
+    {
+      "date": "22 September",
+      "totalconfirmed": 5643489
+    },
+    {
+      "date": "23 September",
+      "totalconfirmed": 5730192
+    },
+    {
+      "date": "24 September",
+      "totalconfirmed": 5816113
+    },
+    {
+      "date": "25 September",
+      "totalconfirmed": 5901830
+    },
+    {
+      "date": "26 September",
+      "totalconfirmed": 5990589
+    },
+    {
+      "date": "27 September",
+      "totalconfirmed": 6073359
+    },
+    {
+      "date": "28 September",
+      "totalconfirmed": 6143028
+    },
+    {
+      "date": "29 September",
+      "totalconfirmed": 6223528
+    },
+    {
+      "date": "30 September",
+      "totalconfirmed": 6310276
+    },
+    {
+      "date": "01 October",
+      "totalconfirmed": 6392060
+    },
+    {
+      "date": "02 October",
+      "totalconfirmed": 6471943
+    },
+    {
+      "date": "03 October",
+      "totalconfirmed": 6547422
+    },
+    {
+      "date": "04 October",
+      "totalconfirmed": 6622192
+    },
+    {
+      "date": "05 October",
+      "totalconfirmed": 6682322
+    },
+    {
+      "date": "06 October",
+      "totalconfirmed": 6754191
+    },
+    {
+      "date": "07 October",
+      "totalconfirmed": 6833000
+    },
+    {
+      "date": "08 October",
+      "totalconfirmed": 6903797
+    },
+    {
+      "date": "09 October",
+      "totalconfirmed": 6977102
+    },
+    {
+      "date": "10 October",
+      "totalconfirmed": 7051520
+    },
+    {
+      "date": "11 October",
+      "totalconfirmed": 7119309
+    },
+    {
+      "date": "12 October",
+      "totalconfirmed": 7173571
+    },
+    {
+      "date": "13 October",
+      "totalconfirmed": 7237288
+    },
+    {
+      "date": "14 October",
+      "totalconfirmed": 7305099
+    },
+    {
+      "date": "15 October",
+      "totalconfirmed": 7368540
+    },
+    {
+      "date": "16 October",
+      "totalconfirmed": 7430844
+    },
+    {
+      "date": "17 October",
+      "totalconfirmed": 7492737
+    },
+    {
+      "date": "18 October",
+      "totalconfirmed": 7549256
+    },
+    {
+      "date": "19 October",
+      "totalconfirmed": 7594762
+    },
+    {
+      "date": "20 October",
+      "totalconfirmed": 7649110
+    },
+    {
+      "date": "21 October",
+      "totalconfirmed": 7705374
+    },
+    {
+      "date": "22 October",
+      "totalconfirmed": 7759745
+    },
+    {
+      "date": "23 October",
+      "totalconfirmed": 7813676
+    },
+    {
+      "date": "24 October",
+      "totalconfirmed": 7864042
+    },
+    {
+      "date": "25 October",
+      "totalconfirmed": 7909964
+    },
+    {
+      "date": "26 October",
+      "totalconfirmed": 7945983
+    },
+    {
+      "date": "27 October",
+      "totalconfirmed": 7989019
+    },
+    {
+      "date": "28 October",
+      "totalconfirmed": 8039207
+    },
+    {
+      "date": "29 October",
+      "totalconfirmed": 8087972
+    },
+    {
+      "date": "30 October",
+      "totalconfirmed": 8136089
+    },
+    {
+      "date": "31 October",
+      "totalconfirmed": 8183317
+    },
+    {
+      "date": "01 November",
+      "totalconfirmed": 8229245
+    },
+    {
+      "date": "02 November",
+      "totalconfirmed": 8266837
+    },
+    {
+      "date": "03 November",
+      "totalconfirmed": 8312864
+    },
+    {
+      "date": "04 November",
+      "totalconfirmed": 8363329
+    },
+    {
+      "date": "05 November",
+      "totalconfirmed": 8410957
+    },
+    {
+      "date": "06 November",
+      "totalconfirmed": 8460974
+    },
+    {
+      "date": "07 November",
+      "totalconfirmed": 8507127
+    },
+    {
+      "date": "08 November",
+      "totalconfirmed": 8553834
+    },
+    {
+      "date": "09 November",
+      "totalconfirmed": 8590953
+    },
+    {
+      "date": "10 November",
+      "totalconfirmed": 8635677
+    },
+    {
+      "date": "11 November",
+      "totalconfirmed": 8683962
+    },
+    {
+      "date": "12 November",
+      "totalconfirmed": 8728547
+    },
+    {
+      "date": "13 November",
+      "totalconfirmed": 8773167
+    },
+    {
+      "date": "14 November",
+      "totalconfirmed": 8814859
+    },
+    {
+      "date": "15 November",
+      "totalconfirmed": 8845540
+    },
+    {
+      "date": "16 November",
+      "totalconfirmed": 8874149
+    },
+    {
+      "date": "17 November",
+      "totalconfirmed": 8912697
+    },
+    {
+      "date": "18 November",
+      "totalconfirmed": 8958063
+    },
+    {
+      "date": "19 November",
+      "totalconfirmed": 9004248
+    },
+    {
+      "date": "20 November",
+      "totalconfirmed": 9050531
+    },
+    {
+      "date": "21 November",
+      "totalconfirmed": 9095832
+    },
+    {
+      "date": "22 November",
+      "totalconfirmed": 9140236
+    },
+    {
+      "date": "23 November",
+      "totalconfirmed": 9177677
+    },
+    {
+      "date": "24 November",
+      "totalconfirmed": 9221922
+    },
+    {
+      "date": "25 November",
+      "totalconfirmed": 9266621
+    },
+    {
+      "date": "26 November",
+      "totalconfirmed": 9309795
+    },
+    {
+      "date": "27 November",
+      "totalconfirmed": 9351148
+    },
+    {
+      "date": "28 November",
+      "totalconfirmed": 9392963
+    },
+    {
+      "date": "29 November",
+      "totalconfirmed": 9431999
+    },
+    {
+      "date": "30 November",
+      "totalconfirmed": 9463178
+    },
+    {
+      "date": "01 December",
+      "totalconfirmed": 9499652
+    },
+    {
+      "date": "02 December",
+      "totalconfirmed": 9535158
+    },
+    {
+      "date": "03 December",
+      "totalconfirmed": 9571732
+    },
+    {
+      "date": "04 December",
+      "totalconfirmed": 9608443
+    },
+    {
+      "date": "05 December",
+      "totalconfirmed": 9644453
+    },
+    {
+      "date": "06 December",
+      "totalconfirmed": 9677631
+    },
+    {
+      "date": "07 December",
+      "totalconfirmed": 9703858
+    },
+    {
+      "date": "08 December",
+      "totalconfirmed": 9735941
+    },
+    {
+      "date": "09 December",
+      "totalconfirmed": 9767578
+    },
+    {
+      "date": "10 December",
+      "totalconfirmed": 9796989
+    },
+    {
+      "date": "11 December",
+      "totalconfirmed": 9826950
+    },
+    {
+      "date": "12 December",
+      "totalconfirmed": 9857304
+    },
+    {
+      "date": "13 December",
+      "totalconfirmed": 9884640
+    },
+    {
+      "date": "14 December",
+      "totalconfirmed": 9906581
+    },
+    {
+      "date": "15 December",
+      "totalconfirmed": 9932832
+    },
+    {
+      "date": "16 December",
+      "totalconfirmed": 9951004
+    },
+    {
+      "date": "17 December",
+      "totalconfirmed": 9977758
+    },
+    {
+      "date": "18 December",
+      "totalconfirmed": 10004749
+    },
+    {
+      "date": "19 December",
+      "totalconfirmed": 10031583
+    },
+    {
+      "date": "20 December",
+      "totalconfirmed": 10056205
+    },
+    {
+      "date": "21 December",
+      "totalconfirmed": 10075352
+    },
+    {
+      "date": "22 December",
+      "totalconfirmed": 10099232
+    },
+    {
+      "date": "23 December",
+      "totalconfirmed": 10123948
+    },
+    {
+      "date": "24 December",
+      "totalconfirmed": 10147392
+    },
+    {
+      "date": "25 December",
+      "totalconfirmed": 10169741
+    },
+    {
+      "date": "26 December",
+      "totalconfirmed": 10188316
+    },
+    {
+      "date": "27 December",
+      "totalconfirmed": 10208649
+    },
+    {
+      "date": "28 December",
+      "totalconfirmed": 10224721
+    },
+    {
+      "date": "29 December",
+      "totalconfirmed": 10245263
+    },
+    {
+      "date": "30 December",
+      "totalconfirmed": 10267208
+    },
+    {
+      "date": "31 December",
+      "totalconfirmed": 10286234
+    },
+    {
+      "date": "01 January",
+      "totalconfirmed": 10306393
+    },
+    {
+      "date": "02 January",
+      "totalconfirmed": 10324537
+    },
+    {
+      "date": "03 January",
+      "totalconfirmed": 10341215
+    },
+    {
+      "date": "04 January",
+      "totalconfirmed": 10357493
+    },
+    {
+      "date": "05 January",
+      "totalconfirmed": 10375402
+    },
+    {
+      "date": "06 January",
+      "totalconfirmed": 10395874
+    },
+    {
+      "date": "07 January",
+      "totalconfirmed": 10413997
+    },
+    {
+      "date": "08 January",
+      "totalconfirmed": 10432450
+    },
+    {
+      "date": "09 January",
+      "totalconfirmed": 10451270
+    },
+    {
+      "date": "10 January",
+      "totalconfirmed": 10467356
+    },
+    {
+      "date": "11 January",
+      "totalconfirmed": 10479837
+    },
+    {
+      "date": "12 January",
+      "totalconfirmed": 10495740
+    },
+    {
+      "date": "13 January",
+      "totalconfirmed": 10512755
+    },
+    {
+      "date": "14 January",
+      "totalconfirmed": 10528432
+    },
+    {
+      "date": "15 January",
+      "totalconfirmed": 10543587
+    },
+    {
+      "date": "16 January",
+      "totalconfirmed": 10558637
+    },
+    {
+      "date": "17 January",
+      "totalconfirmed": 10572599
+    },
+    {
+      "date": "18 January",
+      "totalconfirmed": 10582586
+    },
+    {
+      "date": "19 January",
+      "totalconfirmed": 10596373
+    },
+    {
+      "date": "20 January",
+      "totalconfirmed": 10611652
+    },
+    {
+      "date": "21 January",
+      "totalconfirmed": 10626147
+    },
+    {
+      "date": "22 January",
+      "totalconfirmed": 10640470
+    },
+    {
+      "date": "23 January",
+      "totalconfirmed": 10655366
+    },
+    {
+      "date": "24 January",
+      "totalconfirmed": 10668598
+    },
+    {
+      "date": "25 January",
+      "totalconfirmed": 10677696
+    },
+    {
+      "date": "26 January",
+      "totalconfirmed": 10690429
+    },
+    {
+      "date": "27 January",
+      "totalconfirmed": 10701985
+    },
+    {
+      "date": "28 January",
+      "totalconfirmed": 10720897
+    },
+    {
+      "date": "29 January",
+      "totalconfirmed": 10733951
+    },
+    {
+      "date": "30 January",
+      "totalconfirmed": 10747024
+    },
+    {
+      "date": "31 January",
+      "totalconfirmed": 10758551
+    },
+    {
+      "date": "01 February",
+      "totalconfirmed": 10767130
+    },
+    {
+      "date": "02 February",
+      "totalconfirmed": 10778131
+    },
+    {
+      "date": "03 February",
+      "totalconfirmed": 10791056
+    },
+    {
+      "date": "04 February",
+      "totalconfirmed": 10803457
+    },
+    {
+      "date": "05 February",
+      "totalconfirmed": 10815168
+    },
+    {
+      "date": "06 February",
+      "totalconfirmed": 10827237
+    },
+    {
+      "date": "07 February",
+      "totalconfirmed": 10839023
+    },
+    {
+      "date": "08 February",
+      "totalconfirmed": 10847738
+    },
+    {
+      "date": "09 February",
+      "totalconfirmed": 10858469
+    },
+    {
+      "date": "10 February",
+      "totalconfirmed": 10871008
+    },
+    {
+      "date": "11 February",
+      "totalconfirmed": 10880361
+    },
+    {
+      "date": "12 February",
+      "totalconfirmed": 10892498
+    },
+    {
+      "date": "13 February",
+      "totalconfirmed": 10904696
+    },
+    {
+      "date": "14 February",
+      "totalconfirmed": 10916402
+    },
+    {
+      "date": "15 February",
+      "totalconfirmed": 10925488
+    },
+    {
+      "date": "16 February",
+      "totalconfirmed": 10937080
+    },
+    {
+      "date": "17 February",
+      "totalconfirmed": 10949942
+    },
+    {
+      "date": "18 February",
+      "totalconfirmed": 10963179
+    },
+    {
+      "date": "19 February",
+      "totalconfirmed": 10977095
+    },
+    {
+      "date": "20 February",
+      "totalconfirmed": 10991014
+    },
+    {
+      "date": "21 February",
+      "totalconfirmed": 11005292
+    },
+    {
+      "date": "22 February",
+      "totalconfirmed": 11015786
+    },
+    {
+      "date": "23 February",
+      "totalconfirmed": 11029468
+    },
+    {
+      "date": "24 February",
+      "totalconfirmed": 11046398
+    },
+    {
+      "date": "25 February",
+      "totalconfirmed": 11062997
+    },
+    {
+      "date": "26 February",
+      "totalconfirmed": 11079559
+    },
+    {
+      "date": "27 February",
+      "totalconfirmed": 11096364
+    },
+    {
+      "date": "28 February",
+      "totalconfirmed": 11111978
+    },
+    {
+      "date": "01 March",
+      "totalconfirmed": 11124248
+    },
+    {
+      "date": "02 March",
+      "totalconfirmed": 11139246
+    },
+    {
+      "date": "03 March",
+      "totalconfirmed": 11156671
+    },
+    {
+      "date": "04 March",
+      "totalconfirmed": 11173495
+    },
+    {
+      "date": "05 March",
+      "totalconfirmed": 11191819
+    },
+    {
+      "date": "06 March",
+      "totalconfirmed": 11210543
+    },
+    {
+      "date": "07 March",
+      "totalconfirmed": 11229193
+    },
+    {
+      "date": "08 March",
+      "totalconfirmed": 11244546
+    },
+    {
+      "date": "09 March",
+      "totalconfirmed": 11262419
+    },
+    {
+      "date": "10 March",
+      "totalconfirmed": 11285270
+    },
+    {
+      "date": "11 March",
+      "totalconfirmed": 11308568
+    },
+    {
+      "date": "12 March",
+      "totalconfirmed": 11333413
+    },
+    {
+      "date": "13 March",
+      "totalconfirmed": 11358567
+    },
+    {
+      "date": "14 March",
+      "totalconfirmed": 11385080
+    },
+    {
+      "date": "15 March",
+      "totalconfirmed": 11409517
+    },
+    {
+      "date": "16 March",
+      "totalconfirmed": 11438386
+    },
+    {
+      "date": "17 March",
+      "totalconfirmed": 11474224
+    },
+    {
+      "date": "18 March",
+      "totalconfirmed": 11513911
+    },
+    {
+      "date": "19 March",
+      "totalconfirmed": 11554817
+    },
+    {
+      "date": "20 March",
+      "totalconfirmed": 11598632
+    },
+    {
+      "date": "21 March",
+      "totalconfirmed": 11645641
+    },
+    {
+      "date": "22 March",
+      "totalconfirmed": 11686277
+    },
+    {
+      "date": "23 March",
+      "totalconfirmed": 11733516
+    },
+    {
+      "date": "24 March",
+      "totalconfirmed": 11722425
+    },
+    {
+      "date": "25 March",
+      "totalconfirmed": 11759951
+    },
+    {
+      "date": "26 March",
+      "totalconfirmed": 11798682
+    },
+    {
+      "date": "27 March",
+      "totalconfirmed": 11838648
+    },
+    {
+      "date": "28 March",
+      "totalconfirmed": 11879883
+    },
+    {
+      "date": "29 March",
+      "totalconfirmed": 11922416
+    },
+    {
+      "date": "30 March",
+      "totalconfirmed": 11966282
+    },
+    {
+      "date": "31 March",
+      "totalconfirmed": 12011512
+    },
+    {
+      "date": "1 April",
+      "totalconfirmed": 12058139
+    },
+    {
+      "date": "2 April",
+      "totalconfirmed": 12106196
+    },
+    {
+      "date": "3 April",
+      "totalconfirmed": 12155716
+    },
+    {
+      "date": "4 April",
+      "totalconfirmed": 12206734
+    },
+    {
+      "date": "5 April",
+      "totalconfirmed": 12259283
+    }
+  ]
+}
