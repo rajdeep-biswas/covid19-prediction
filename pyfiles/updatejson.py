@@ -20,6 +20,8 @@ for item in response.json()["cases_time_series"]:
     cases.append(int(item["totalconfirmed"]))
     dates.append(item["date"].strip())
 
+filesavename = item["dateymd"]
+
 npastdates = len(dates) // 3
 nfuturedates = 14
 
@@ -63,4 +65,4 @@ jsondata = str({"cases_time_series" : jsondata}).replace("'", '"')
 with open("jsons/current.json", 'w') as f:
     f.write(json.dumps(json.loads(jsondata), indent=2, sort_keys=True))
 
-shutil.copyfile("jsons/current.json", "jsons/" + pdate + ".json")
+shutil.copyfile("jsons/current.json", "jsons/" + filesavename + ".json")
