@@ -13,7 +13,7 @@ from sklearn.linear_model import LinearRegression
 
 response = requests.get('https://api.covid19india.org/data.json')
 
-# added test comment
+# added test comment 2
 
 cases = []
 dates = []
