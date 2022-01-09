@@ -1,5 +1,7 @@
 # COVID-19 India Daily Cases Prediction
 **Update**: https://data.covid19india.org/data.json has stopped posting updates since 2021-08-16 (16th August, 2021) and hence the GitHub Actions Workflow has ceased to update this repository on its own as a result. Sorry for any inconvenience :(  
+
+![covid19india.org](miscellaneous/covid19india-endofservice.png "COVID19India.org End of Service Screenshot")
   
 I will try to look into some alternatives as soon as I find some free time. *Thank you for visiting!*
 
